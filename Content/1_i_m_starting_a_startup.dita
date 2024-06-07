@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_i_m_starting_a_startup">
+    <title>I'm starting a startup!</title>
+    <conbody>
+        <fig id="fig_wdh_l42_qbc">
+            <title>I'm Starting a Startup! (Image from: biznes.warmia.mazury.pl)</title>
+            <image href="../image/PNG/platformy-startowe-page.png" id="image_xdh_l42_qbc"
+                align="center" height="auto" width="600px" alt="under"/>
+        </fig>
+        <p>Yes, the day has finally come to shout it out to everyone, or at least let your family
+            and friends know, that you've got a brilliant idea and you're diving into business.
+            You're starting a startup! It will be a <xref href="8_glossary.dita#unicorn"
+                >unicorn</xref>, definitely yes! You’ll be like Elon Musk or Mark Zuckerberg... some
+            basement or garage will also be found... You can already picture the investors and
+            customers lining up for your product, competitors in tears, fame, and glamour... WHOA,
+            WHOA... hold your horses.</p>
+        <p>To make all that a reality, you need knowledge, a plan, time, and a fair bit of honest
+            self-reflection. This guide will help you get a grasp of what a startup is, its pros and
+            cons, the qualities you need as a <xref href="8_glossary.dita#founder">founder</xref>,
+            the steps to take, and the methods available.</p>
+        <p>It's a long journey from an idea to a product, so grab a notebook and let's dive into
+            this guide together.</p>
+        <note id="note_dzd_yh5_pbc">
+            <p>Ladies, I've used the male form to simplify communication. This isn't just by
+                chance... The statistics aren't in our favour when it comes to founding startups.
+                Research shows that the two most common types of founders are men:<table frame="all"
+                    rowsep="1" colsep="1" id="table_zqj_qj5_pbc">
+                    <tgroup cols="2" align="left">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry>
+                                    <p><b>Young startup founder</b> (20-40 years old), who has:</p>
+                                </entry>
+                                <entry><b>Old startup founder</b> (>40 years old), who has:</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>
+                                    <ul id="ul_kbf_5j5_pbc">
+                                        <li>
+                                            <p>a positive attitude</p>
+                                        </li>
+                                        <li>
+                                            <p>openness to cooperation with others</p>
+                                        </li>
+                                        <li>
+                                            <p>ability to set goals</p>
+                                        </li>
+                                        <li>
+                                            <p>not afraid to ask for feedback</p>
+                                        </li>
+                                    </ul>
+                                </entry>
+                                <entry>
+                                    <ul id="ul_hf5_5j5_pbc">
+                                        <li>
+                                            <p>experience in marketing and sales</p>
+                                        </li>
+                                        <li>
+                                            <p>project management skills</p>
+                                        </li>
+                                        <li>
+                                            <p>ability to select people for the team</p>
+                                        </li>
+                                        <li>
+                                            <p>knowledge of how to raise money for investments</p>
+                                        </li>
+                                    </ul>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </note>
+        <p>Trends, like everything else, change. There are more and more women stepping up, but
+            knowledge stays neutral. So, let's take this journey together.</p>
+    </conbody>
+</concept>

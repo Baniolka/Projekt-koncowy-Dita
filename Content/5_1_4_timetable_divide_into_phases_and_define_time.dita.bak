@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_5_1_4_timetable_divide_into_phases_and_define_time">
+    <title>5.1.4 Timetable: Divide Into Phases and Define Time</title>
+    <shortdesc>All about schedule in roadmap.</shortdesc>
+    <conbody>
+        <p>Now that you know what product you want to build, what you have, and what you need, you
+            can break the work into manageable phases. The size of these phases may depend on your
+            business experience or market knowledge. Initially, base stages on what you know,
+            adjusting with feedback over time.</p>
+        <p>Assign deadlines to each phase. Be specific but realistic. Consider dividing work into
+            monthly stages, each with an assigned KPI. Your roadmap should include:</p>
+        <ul id="ul_d5p_try_pbc">
+            <li>
+                <p>The order of feature and function implementation</p>
+            </li>
+            <li>
+                <p>Estimated time for each stage</p>
+            </li>
+            <li>
+                <p>Resource allocation for each stage</p>
+            </li>
+            <li>
+                <p>Milestones, defining major project phases</p>
+            </li>
+        </ul>
+        <p>A well-crafted timetable helps you and your teams manage time and resources effectively.
+            It provides a clear view of project progress and improves internal communication.</p>
+        <p>
+            <note id="note_skt_vv2_qbc"> A roadmap isn't static. It will evolve throughout the
+                project, so update it regularly.</note>
+        </p>
+    </conbody>
+</concept>

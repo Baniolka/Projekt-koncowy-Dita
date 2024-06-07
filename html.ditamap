@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>From idea to business.... or a little guide for the future Startup</title>
+    <mapref href="chapter_1.ditamap"/>
+    <mapref href="chapter_2.ditamap"/>
+    <mapref href="chapter_3.ditamap"/>
+    <mapref href="chapter_4.ditamap"/>
+    <mapref href="chapter_5.ditamap"/>
+    <mapref href="chapter_6.ditamap"/>
+    <mapref href="chapter_7.ditamap"/>
+    <mapref href="some_advice_at_the_end.ditamap"/>
+</map>

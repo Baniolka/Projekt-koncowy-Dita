@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_3_from_the_big_picture_to_the_details">
+    <title>3. From the Big Picture to the Details</title>
+    <body>
+        <p>Success in a startup isn't just about having a great idea, luck, or hard work. You also
+            need to break things down from the big picture to the details, step by step. You need to
+            look ahead while thinking about the present. A vision, strategy, roadmap, and product
+            backlog will help you with this.</p>
+        <fig id="fig_dck_htx_pbc">
+            <title>From idea to produckt baclog road</title>
+            <image href="../image/PNG/from%20idea%20to%20product.png.png" id="image_eck_htx_pbc"
+                width="800px" align="center" height="auto">
+                <alt>Diagram through Idea, strategy, roadmap to Product backlog</alt>
+            </image>
+        </fig>
+        <ol id="ol_ex3_jtx_pbc">
+            <li>
+                <p><b>Vision:</b> This is the core reason why you want to create a product. It
+                    answers the question of why you're doing this and whether you truly believe in
+                    it. Your vision should have four key factors:</p>
+                <ul id="ul_wwy_jtx_pbc">
+                    <li>
+                        <p>Big (reach a wide audience and remain relevant even when strategy
+                            changes),</p>
+                    </li>
+                    <li>
+                        <p>Concise (easy to communicate and understand),</p>
+                    </li>
+                    <li>
+                        <p>Inspiring (provides motivation and direction),</p>
+                    </li>
+                    <li>
+                        <p>Accessible (facilitates collaboration, unites people, and ensures
+                            continuity in a changing environment).</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p><b>Strategy:</b> A high-level plan that helps to realize the vision and achieve
+                    the goal. It defines how the vision will be brought to life. In the strategy, we
+                    develop a <xref href="4_let_s_break_it_down_the_business_model.dita">business
+                        model</xref>, business model canvas, <xref
+                        href="8_glossary.dita#value_proposition_canvas">Value Proposition
+                        Canvas</xref>, or <xref href="8_glossary.dita#empathy_map">empathy
+                        maps</xref>. The strategy helps to answer key questions and establish a plan
+                    of action. Remember, the strategy is not the final product plan!</p>
+                <ul id="ul_n2n_ntx_pbc">
+                    <li>
+                        <p>Big (reach a wide audience and remain relevant even when strategy
+                            changes),</p>
+                    </li>
+                    <li>
+                        <p>Concise (easy to communicate and understand),</p>
+                    </li>
+                    <li>
+                        <p>Inspiring (provides motivation and direction),</p>
+                    </li>
+                    <li>
+                        <p>Accessible (facilitates collaboration, unites people, and ensures
+                            continuity in a changing environment).</p>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <p><b>Roadmap:</b> This is a description of how to implement the strategy and a
+                    concrete action plan. It breaks down the strategy into specific steps, actions
+                    with dates, key features, and specific objectives.</p>
+            </li>
+            <li>
+                <p><b>Product Backlog:</b> A structured list of what’s needed to create or improve
+                    the product. It prioritizes the most critical tasks, enabling a top-down
+                    approach and seamless collaboration between all teams. It includes all the
+                    details needed to complete the roadmap.</p>
+            </li>
+        </ol>
+    </body>
+</topic>

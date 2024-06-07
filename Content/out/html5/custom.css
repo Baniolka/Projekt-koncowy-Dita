@@ -1,0 +1,90 @@
+/* custom.css */
+
+/* Podstawowe ustawienia dla całego dokumentu */
+html, .root {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.note {
+  background-color: #D9D9D9;
+}
+
+body, .article {
+  font-family: 'Lato', sans-serif; /* Dodajemy font Lato */
+  font-size: 1em;
+  line-height: 1.4em;
+  max-width: 560px;
+  margin: auto;
+}
+
+/* Stylowanie nagłówków */
+h1, .h1 {
+  font-size: 4.25em;
+  line-height: 1.31764706em;
+  margin-top: 0em;
+  margin-bottom: 0.65882352em;
+  color: #3C6E71; /* Dodajemy kolor */
+}
+
+h2, .h2 {
+  font-size: 2.6em;
+  line-height: 1.07692308em;
+  margin-top: 0.53846154em;
+  margin-bottom: 0.53846154em;
+  color: #353535; /* Dodajemy kolor */
+}
+
+h3, .h3 {
+  font-size: 1.6em;
+  line-height: 1.75em;
+  margin-top: 0.875em;
+  margin-bottom: 0em;
+  color: #353535; /* Dodajemy kolor */
+}
+
+h4, .h4, h5, .h5 {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-top: 1.4em;
+  margin-bottom: 0em;
+  color: #353535; 
+}
+
+/* Stylowanie paragrafów, list, tabel i cytatów */
+p, ul, ol, pre, table, blockquote {
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+  color: #353535 /* Dodajemy kolor dla paragrafów */
+}
+
+/* Stylowanie zagnieżdżonych list */
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+/* Dostosowanie wyrównania */
+hr, .hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+
+/* Stylowanie tekstu w liniach */
+a, b, i, strong, em, small, code {
+  line-height: 0;
+}
+
+sub, sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}

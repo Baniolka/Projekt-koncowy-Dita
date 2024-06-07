@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails">
+    <title>1.5 Why did the idea fail? Reasons why a startup fails</title>
+    <body>
+        <p>As I mentioned earlier, startups are high-risk ventures. There can be many obstacles that
+            lead to failure. It's crucial to consider potential weaknesses - even at the idea stage.
+            According to "The Top 20 Reasons Startups Fail" report, the five most common reasons
+                are:<fig id="fig_hvs_jmb_qbc">
+                <title>The most common reasons why startups fail.</title>
+                <image href="../image/PNG/dlaczego%20startupy%20upadaj%C4%85.png"
+                    id="image_ivs_jmb_qbc" width="700px" height="auto">
+                    <alt>Diagram shows the most common reasons why startups fail.</alt>
+                </image>
+            </fig></p>
+        <ol id="ol_ckn_cz5_pbc">
+            <li>
+                <p><b>Lack of Market Need:</b>You have a groundbreaking product or idea, but is it a
+                    viable solution or just a catchy slogan? The assumptions and benefits might not
+                    interest your target audience or be practical for everyday use. When building a
+                    business model, make sure your product solves a real problem and is scalable.
+                    Remember, there's no need to reinvent the wheel.</p>
+            </li>
+            <li>
+                <p><b>Financial Exhaustion:</b> Startups allow you to test an idea with low initial
+                    costs, but what happens next? If you poorly define the market need and business
+                    model, you might find that making changes is both time-consuming and expensive.
+                    Even external funding might not be enough if you need to rebuild from
+                    scratch.</p>
+            </li>
+            <li>
+                <p><b>Lack of the Right Team:</b> You have the idea and the funding, but you don’t
+                    have the people to bring it to life. Without a strong in-house team or a
+                    reliable external partner, your product might never reach the market, and you
+                    risk burning out.</p>
+            </li>
+            <li>
+                <p><b>Better Competition: </b>Having competition is good - it pushes you to improve.
+                    You need to create a unique product that’s hard to copy. If you don’t react
+                    quickly to changes and customer feedback, you might lose out. Customers will
+                    choose a simpler, higher-quality, more effective, or cheaper solution.</p>
+            </li>
+            <li>
+                <p><b>Price/Cost Issues:</b> The market is dynamic, and solutions developed 3-4
+                    years ago might be obsolete now. If your product's price doesn’t match its
+                    quality, customers will move on. Producing cheaply and pleasing investors
+                    doesn't always work. A flawed business model, high costs for changes or
+                    improvements, ignoring advisors, releasing products too early or too late, legal
+                    issues - many factors (often several at once) can make further investment in a
+                    startup unprofitable.</p>
+            </li>
+        </ol>
+    </body>
+</topic>

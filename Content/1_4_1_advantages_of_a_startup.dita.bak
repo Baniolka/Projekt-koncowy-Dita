@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_4_1_advantages_of_a_startup">
+    <title>1.4.1 Advantages of a Startup</title>
+    <shortdesc>Advantages of a Startup.</shortdesc>
+    <conbody>
+        <p>
+            <ol id="ol_dk5_3v5_pbc">
+                <li>
+                    <p><b>Low Cost of Entry:</b> Statistics show that 1 in 3 people starting a
+                        startup have a budget of less than $5,000, and there's often no need for a
+                        significant initial investment.</p>
+                </li>
+                <li>
+                    <p><b>Freedom:</b> You’re your own boss, pursuing your own vision... until you
+                        need to deal with investors.</p>
+                </li>
+                <li>
+                    <p><b>Creativity:</b> Startups thrive on innovation, requiring layers of
+                        creativity to launch and sustain the business. <xref
+                            href="8_glossary.dita#founder">Founders</xref> are often seen as
+                        visionaries.</p>
+                </li>
+                <li>
+                    <p><b>Flexibility:</b> Limited resources (financial or human) force quick
+                        adaptation to new solutions, work methods, or product directions.</p>
+                </li>
+                <li>
+                    <p><b>Versatility:</b> With small teams, employees often wear many hats and
+                        multitask.</p>
+                </li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

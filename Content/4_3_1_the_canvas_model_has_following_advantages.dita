@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_4_3_1_the_canvas_model_has_following_advantages">
+    <title>The canvas model has following advantages</title>
+    <shortdesc>Advantages of the Canvas model:</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_jgk_5my_pbc">
+                <li>
+                    <p>It gives a quick and concise overview of your project.</p>
+                </li>
+                <li>
+                    <p>It helps verify that what you're selling aligns with why, to whom, how, and
+                        for how much.</p>
+                </li>
+                <li>
+                    <p>It lets you map out the key design elements and see how they interact with
+                        each other.</p>
+                </li>
+                <li>
+                    <p>Allows you to understand the interaction between design elements and their
+                        ordering.</p>
+                </li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

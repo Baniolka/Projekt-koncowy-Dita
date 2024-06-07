@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_4_let_s_break_it_down_the_business_model">
+    <title>Let's break it down...the business model</title>
+    <shortdesc>About the bussiness model.</shortdesc>
+    <conbody>
+        <fig id="fig_ght_31y_pbc">
+            <title>Buissnes Model Canva from Sydle.com</title>
+            <image href="../image/PNG/business-model-canvas.png" id="image_hht_31y_pbc"
+                width="800px" height="auto" alt="under">
+                <alt>General view of the business map template from Sydle.com</alt>
+            </image>
+        </fig>
+        <p>Business model? Business plan? It's easy to get them mixed up because they sound alike.
+            But in practice, they serve different purposes.</p>
+        <p>A business model is like a high-level blueprint for your company. It outlines the core
+            idea - what you're offering, who your customers are, and how you'll make money. Think of
+            it as the basic recipe for your business success.</p>
+        <p>On the other hand, a business plan dives deeper. It details the steps needed to turn your
+            business model into reality. This includes things like marketing strategies, financial
+            projections (showing how much money you expect to make and spend), and operational plans
+            (how you'll get everything done). It's like taking your recipe and figuring out the
+            exact measurements, cooking times, and temperatures to create a delicious dish.</p>
+        <p>In short, the business model is the "what" and "why" of your business, while the business
+            plan is the detailed "how" to make it happen.</p>
+    </conbody>
+</concept>

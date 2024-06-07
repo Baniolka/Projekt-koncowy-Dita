@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/New%20Folder/rozdzial_1.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/New%20Folder/rozdzial_1.ditamap">rozdzial_1</title>
+    <topicref class="- map/topicref " xtrc="topicref:1;5:45" xtrf="file:/C:/New%20Folder/rozdzial_1.ditamap" href="#unique_1" id="unique_1" type="topic" ohref="1_zakladam_topic.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="_1_zakladam_topic"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_1_zakladam_topic"/><navtitle class="- topic/navtitle ">I'm Starting a Startup!</navtitle><?ditaot gentext?><linktext class="- map/linktext ">I'm Starting a Startup!</linktext></topicmeta></topicref>
+</opentopic:map><topic ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="topic:1;3:31" specializations="@props/deliveryTarget" oid="_1_zakladam_topic" id="unique_1">
+    <title class="- topic/title " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="title:1;4:12">I'm Starting a Startup!</title>
+    <body class="- topic/body " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:1;6:12">Yes, the day has finally come to shout it out to everyone, or at least let your family and friends know, that you've got a brilliant idea and you're diving into business. You're starting a startup! You’ll be like Elon Musk or Mark Zuckerberg... some basement or garage will also be found... You can already picture the investors and customers lining up for your product, competitors in tears, fame, and glamour... WHOA, WHOA... hold your horses.</p>
+        
+        <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:2;8:12">To make all that a reality, you need knowledge, a plan, time, and some honest self-reflection. This guide will help you get a grip on what a startup is, its pros and cons, the qualities you need as a founder, the steps to take, and the methods available.</p>
+        
+        <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:3;10:12">It's a long journey from an idea to a product, so grab a notebook and let's dive into this guide together.</p>
+        
+        <note class="- topic/note " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="note:1;12:15">
+            <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:4;13:16"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="b:1;13:19">A LITTLE NOTE!</b></p>
+            <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:5;14:16">Ladies, I've used the male form to simplify communication. This isn't just by chance... The statistics aren't in our favour when it comes to founding startups. Research shows that the two most common types of founders are men:</p>
+        </note>
+        
+        <section class="- topic/section " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="section:1;17:18">
+            <title class="- topic/title " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="title:2;18:20">Young startup founder (20-40 years old), who has:</title>
+            <ul class="- topic/ul " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="ul:1;19:17">
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:1;20:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:6;20:24">a positive attitude</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:2;21:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:7;21:24">openness to cooperation with others</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:3;22:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:8;22:24">ability to set goals</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:4;23:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:9;23:24">not afraid to ask for feedback</p></li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="section:2;27:18">
+            <title class="- topic/title " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="title:3;28:20">Old startup founder (&gt;40 years old), who has:</title>
+            <ul class="- topic/ul " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="ul:2;29:17">
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:5;30:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:10;30:24">experience in marketing and sales</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:6;31:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:11;31:24">project management skills</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:7;32:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:12;32:24">ability to select people for the team</p></li>
+                <li class="- topic/li " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="li:8;33:21"><p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:13;33:24">knowledge of how to raise money for investments</p></li>
+            </ul>
+        </section>
+        
+        <p class="- topic/p " xtrf="file:/C:/New%20Folder/1_zakladam_topic.dita" xtrc="p:14;37:12">Trends, like everything else, change. There are more and more women stepping up, but knowledge stays neutral. So, let's take this journey together.</p>
+    </body>
+</topic></map>

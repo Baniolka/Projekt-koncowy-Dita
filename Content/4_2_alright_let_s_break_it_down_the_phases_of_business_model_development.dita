@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_4_2_alright_let_s_break_it_down_the_phases_of_business_model_development">
+    <title>Alright, let's break it down...the phases of business model development</title>
+    <shortdesc>Four phases can be distinguished in the work on the business model.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>First up, there’s the <b>initiation phase</b>. This is where you analyze the
+                    current state of things. You're looking at potential revenue, market gaps, and
+                    all the external factors. </cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Dive into the micro-environment - think about consumers, partners, and
+                            competition.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Then zoom out to the macro-environment - consider tech trends,
+                            megatrends, and regulations</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Next, move into the <b>ideation phase</b>. That's where you need to get your
+                    creative juices flowing. You’ll be brainstorming ideas for a new business model
+                    within your project team(s). You can approach this in a couple of ways:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>scout similar industries and tweak ideas to fit yours,</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>mix and match different successful models to create your own.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>After all the analyzing, it's time to build. The <b>integration phase</b> is
+                    about refining that concept you've cooked up. Focus on four key areas: </cmd>
+                <info>
+                    <ul id="ul_dhf_p2y_pbc">
+                        <li>Customers - what do they want and how do they want it?</li>
+                        <li>Value proposition - what problem are you solving and why are you better
+                            than the rest?</li>
+                        <li>Resources and processes - what's it going to take to make this
+                            happen?</li>
+                        <li>evenue generation - how are you going to make the cash flow?</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Finally, we've got the <b>implementation phase</b>. This is where you take your
+                    prototype and throw it into the market. Get feedback from everyone and anyone -
+                    customers, suppliers, partners, you name it. This feedback is gold - it'll help
+                    you tweak your model and make it market-ready. And that's how you turn an idea
+                    into a viable business model. Easy, right?</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

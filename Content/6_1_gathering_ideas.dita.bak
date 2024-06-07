@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_6_1_gathering_ideas">
+    <title>6.1 Gathering Ideas</title>
+    <shortdesc>This is the phase where you need to get creative and think strategically.</shortdesc>
+    <conbody>
+        <fig id="fig_kh1_k5y_pbc">
+            <title>First step - Gathering Ideas</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/2_6%20Stages%20of%20Product%20Development.png.png"
+                scale="60" id="image_lh1_k5y_pbc">
+                <alt>First step is gathering ideas</alt>
+            </image>
+        </fig>
+        <p>This is the phase where you need to get creative and think strategically. Here are the
+            steps to follow:</p>
+        <ul id="ul_fnt_k5y_pbc">
+            <li>
+                <p>Identify a value proposition for your potential audience that will capture their
+                    imagination.</p>
+            </li>
+            <li>
+                <p>Brainstorm and jot down all the variations of an idea that come to mind, either
+                    alone or with a team, and then choose one or two.</p>
+            </li>
+            <li>
+                <p>Study various information channels (customers, competitors, suppliers).</p>
+            </li>
+            <li>
+                <p>Apply <xref href="8_glossary.dita#swot">SWOT</xref> analysis to the idea(s).</p>
+            </li>
+            <li>
+                <p>Conduct market research (e.g., <xref href="8_glossary.dita#fgi">FGI</xref>
+                    method) to understand your target group and how well your product fits with
+                    them.</p>
+            </li>
+            <li>
+                <p>Create a theoretical <xref href="8_glossary.dita#mvp">MVP</xref> to validate the
+                    concept and define its functionalities.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

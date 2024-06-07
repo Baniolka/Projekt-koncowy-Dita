@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>From the Big Picture to the Details</title>
+    <topicref href="Content/3_from_the_big_picture_to_the_details.dita">
+        <topicref href="Content/3_1_business_development_strategy.dita"/>    
+    </topicref>
+</map>

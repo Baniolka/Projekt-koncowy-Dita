@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-center><css:property name="content"/></css:top-center><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="matter-page" pseudo="left "><css:top-left><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="matter-page" pseudo="right "><css:top-right><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="front-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/New%20Folder/Content/chapter_1.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta content="text/html; charset=UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" http-equiv="Content-Type"/>
+        <meta content="(C) Copyright 2024" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+        <meta content="(C) Copyright 2024" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.rights.owner"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Chapter 1</title>
+    </head>
+    <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
+        <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en">
+                        <div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- front-page/front-page-title front-page-title" css:display="block" css:font-size="2em" css:font-weight="bold" css:line-height="1.5em" css:margin-top="3in" css:text-align="center">
+                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title>Chapter
+                                    1</div>
+                            </div></div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/New%20Folder/Content/chapter_1.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
+                            <div class="- toc/title title" css:bookmark-level="1" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
+                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid">Chapter 1</div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_1" is-chapter="true" type="topic">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_i_m_starting_a_startup">
+                                    <div appid="_1_i_m_starting_a_startup" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="1"/><css:text/><css:text>. </css:text></css:before>1.
+                                        I'm Starting a
+                                        Startup!<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_2" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_1startup_means_actually_what">
+                                        <div appid="_1_1startup_means_actually_what" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"/>1.1
+                                            Startup...means actually
+                                            what?<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Definitions of a start-up</div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_3" type="reference">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_2_a_startup_has_more_than_one_name_types_of_startups">
+                                        <div appid="_1_2_a_startup_has_more_than_one_name_types_of_startups" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"/>1.2
+                                            A startup has more than one name...types of
+                                            startups<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
+                                        <div class="- map/shortdesc shortdesc" css:display="none">Types of startups</div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_5" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_3_common_features_of_startups">
+                                        <div appid="_1_3_common_features_of_startups" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>1.3
+                                            Common Features of
+                                            Startups<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup">
+                                        <div appid="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"/>1.4
+                                            Worth it or Not The Pros and Cons of a
+                                            Startup<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_7" type="concept">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_4_1_advantages_of_a_startup">
+                                            <div appid="_1_4_1_advantages_of_a_startup" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"/>1.4.1
+                                                Advantages of a
+                                                Startup<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Advantages of a Startup.</div>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_9" type="concept">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_4_2_disadvantages_and_risks_of_a_startup">
+                                            <div appid="_1_4_2_disadvantages_and_risks_of_a_startup" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"/>1.4.2
+                                                Disadvantages and Risks of a
+                                                Startup<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Disadvantages and risks of a
+                                                startup.</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="topic">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails">
+                                        <div appid="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>1.5
+                                            Why did the idea fail? Reasons why a startup
+                                            fails<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/C:/New%20Folder/Content/chapter_1.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title1" break-before="true" class="- topic/topic topic nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1" is-chapter="true" nd:nd-id="_1_i_m_starting_a_startup" oid="_1_i_m_starting_a_startup" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="1"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1. I'm Starting a Startup!</span></h1>
+                            <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Yes, the day has finally come to shout it out to everyone, or
+                                    at least let your family and friends know, that you've got a
+                                    brilliant idea and you're diving into business. You're starting
+                                    a startup! You’ll be like Elon Musk or Mark Zuckerberg... some
+                                    basement or garage will also be found... You can already picture
+                                    the investors and customers lining up for your product,
+                                    competitors in tears, fame, and glamour... WHOA, WHOA... hold
+                                    your horses.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">To
+                                    make all that a reality, you need knowledge, a plan, time, and a
+                                    fair bit of honest self-reflection. This guide will help you get
+                                    a grasp of what a startup is, its pros and cons, the qualities
+                                    you need as a founder, the steps to take, and the methods
+                                    available.</p>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">It's a long journey from an idea to a product, so grab a
+                                    notebook and let's dive into this guide together.</p>
+                                <div class="- topic/bodydiv bodydiv" css:display="block"/>
+                                <div class="- topic/note note note note_note" css:background-color="rgba(0 , 120 , 160 , 0.09)" css:background-image="url('file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/note.svg')" css:background-position="0.5em 0.5em" css:background-repeat="no-repeat" css:border-bottom-color="rgb(0 , 120 , 160)" css:border-bottom-left-radius="11px" css:border-bottom-right-radius="11px" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(0 , 120 , 160)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(0 , 120 , 160)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(0 , 120 , 160)" css:border-top-left-radius="11px" css:border-top-right-radius="11px" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Note" css:padding-bottom="0.75em" css:padding-left="3em" css:padding-right="0.5em" css:padding-top="0.75em" id="unique_1_Connect_42_note_dzd_yh5_pbc" nd:nd-id="note_dzd_yh5_pbc">
+                                    <span class="note__title" css:display="block" css:font-weight="700" css:page-break-after="avoid">Note:</span>
+                                    <div class="- topic/p p" css:display="block" css:margin-top="1em">Ladies, I've used the male form to
+                                        simplify communication. This isn't just by chance... The
+                                        statistics aren't in our favour when it comes to founding
+                                        startups. Research shows that the two most common types of
+                                        founders are men:<div xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="table-container" css:display="block">
+                                            <table class="- topic/table table frame-all" colsep="1" css:border-bottom-color="black" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="black" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="black" css:border-top-style="solid" css:border-top-width="1px" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" data-cols="2" frame="all" id="unique_1_Connect_42_table_zqj_qj5_pbc" nd:nd-id="table_zqj_qj5_pbc" rowsep="1">
+                                                <caption css:display="table-caption" css:font-weight="bold" css:margin-top="0.5em" css:page-break-after="avoid" css:text-align="center"/>
+                                                <colgroup css:display="table-column-group">
+                                                  <col css:display="table-column" css:width="50%" style="width:50%"/>
+                                                  <col css:display="table-column" css:width="50%" style="width:50%"/>
+                                                </colgroup>
+                                                <thead class="- topic/thead thead" css:display="table-header-group" css:font-weight="bold" css:text-align="center" css:vertical-align="middle">
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <th class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="0" css:text-align="left" dita-ot:x="1" dita-ot:y="1" id="unique_1__unique_1_Connect_42_table_zqj_qj5_pbc__entry__1">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain"><strong class="+ topic/ph hi-d/b ph b" css:display="inline">Young startup
+                                                  founder</strong> (20-40 years old), who has:</p>
+                                                  </th>
+                                                  <th class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="0" css:text-align="left" dita-ot:x="2" dita-ot:y="1" id="unique_1__unique_1_Connect_42_table_zqj_qj5_pbc__entry__2"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain">Old
+                                                  startup founder</strong> (&gt;40 years old), who
+                                                  has:</th>
+                                                  </tr>
+                                                </thead>
+                                                <tbody class="- topic/tbody tbody" css:display="table-row-group" css:vertical-align="middle">
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-0" colname="col1" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="1" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="2" headers="unique_1__unique_1_Connect_42_table_zqj_qj5_pbc__entry__1">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" css:padding-left="40px" id="unique_1_Connect_42_ul_kbf_5j5_pbc" nd:nd-id="ul_kbf_5j5_pbc">
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">a
+                                                  positive attitude</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">openness
+                                                  to cooperation with others</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">ability
+                                                  to set goals</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">not
+                                                  afraid to ask for feedback</p>
+                                                  </li>
+                                                  </ul>
+                                                  </td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-0" colname="col2" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="1" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="2" headers="unique_1__unique_1_Connect_42_table_zqj_qj5_pbc__entry__2">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" css:padding-left="40px" id="unique_1_Connect_42_ul_hf5_5j5_pbc" nd:nd-id="ul_hf5_5j5_pbc">
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">experience in marketing and sales</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">project
+                                                  management skills</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">ability
+                                                  to select people for the team</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">knowledge of how to raise money for
+                                                  investments</p>
+                                                  </li>
+                                                  </ul>
+                                                  </td>
+                                                  </tr>
+                                                </tbody>
+                                            </table>
+                                        </div></div>
+                                </div>
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Trends, like everything else, change. There are more and more
+                                    women stepping up, but knowledge stays neutral. So, let's take
+                                    this journey together.</p>
+                            </div>
+                            <article aria-labelledby="ariaid-title2" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_2" nd:nd-id="_1_1startup_means_actually_what" oid="_1_1startup_means_actually_what" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title2"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.1 Startup...means actually
+                                        what?</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Definitions of a
+                                        start-up</p>
+                                    <div class="- topic/p p" css:display="block" css:margin-top="1em">The term "startup" can have different
+                                        definitions, but here are four of the most popular ones: <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_2_Connect_42_ol_n1p_wn5_pbc" nd:nd-id="ol_n1p_wn5_pbc">
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Colloquial Definition:</strong> A startup is a
+                                                  young, innovative company, often in the tech
+                                                  sector, that doesn’t follow established business
+                                                  models. It aims to bring a unique product to the
+                                                  market. It’s a temporary entity that becomes a
+                                                  full-fledged company once it finds its business
+                                                  model. Startups are high-risk investments with
+                                                  uncertain returns.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Eric
+                                                  Ries's Definition: </strong>He describes it as <q class="- topic/q q" css:display="inline" css:font-style="italic" css:oxy-pdf-tag-type="Quote"><css:before css:color="gray" css:display="inline"><css:text>“</css:text></css:before>a
+                                                  human institution designed to create new products
+                                                  and services under conditions of extreme
+                                                  uncertainty.<css:after css:color="gray" css:display="inline"><css:text>”</css:text></css:after></q></p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Krakow
+                                                  Definition: </strong>A startup is <q class="- topic/q q" css:display="inline" css:font-style="italic" css:oxy-pdf-tag-type="Quote"><css:before css:color="gray" css:display="inline"><css:text>“</css:text></css:before>an
+                                                  organization that uses external funding and market
+                                                  experimentation to find a way to create customer
+                                                  value based on innovation that can be scaled
+                                                  globally.<css:after css:color="gray" css:display="inline"><css:text>”</css:text></css:after></q></p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Spiral
+                                                  Definition:</strong> Dr. Skala, an expert with the
+                                                Startup Poland Foundation, defines a startup as an
+                                                organization with limited resources and uncertain
+                                                demand for its products. The phases of startup
+                                                development are:<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_2_Connect_42_ul_lnh_5q5_pbc" nd:nd-id="ul_lnh_5q5_pbc">
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Finding
+                                                  an innovative business model</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Using
+                                                  modern technology</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Launching a new product</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Creating
+                                                  disruptive innovations that radically change how
+                                                  customer needs are met</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Ensuring
+                                                  rapid user growth (hyperscalability)</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Creating
+                                                  an effective mechanism to translate user numbers
+                                                  into revenue growth</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Translating revenue growth into exponential
+                                                  growth in business value</p>
+                                                  </li>
+                                                </ul></li>
+                                        </ol></div>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title3" class="- topic/topic reference/reference topic reference nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_3" nd:nd-id="_1_2_a_startup_has_more_than_one_name_types_of_startups" oid="_1_2_a_startup_has_more_than_one_name_types_of_startups" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title3"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.2 A startup has more than one
+                                        name...types of startups</span></h2>
+                                <div class="- topic/body reference/refbody body refbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Types of
+                                        startups</p>
+                                    <div xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="table-container" css:display="block">
+                                        <table class="- topic/table table frame-all" colsep="1" css:border-bottom-color="black" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-collapse="collapse" css:border-left-color="black" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="black" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="black" css:border-top-style="solid" css:border-top-width="1px" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" data-cols="2" frame="all" id="unique_3_Connect_42_table_yqf_kr5_pbc" nd:nd-id="table_yqf_kr5_pbc" rowsep="1">
+                                            <caption css:display="table-caption" css:font-weight="bold" css:margin-top="0.5em" css:page-break-after="avoid" css:text-align="center"/>
+                                            <colgroup css:display="table-column-group">
+                                                <col css:display="table-column" css:width="50%" style="width:50%"/>
+                                                <col css:display="table-column" css:width="50%" style="width:50%"/>
+                                            </colgroup>
+                                            <thead class="- topic/thead thead" css:display="table-header-group" css:font-weight="bold" css:text-align="center" css:vertical-align="middle">
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <th class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="0" css:text-align="left" dita-ot:x="1" dita-ot:y="1" id="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain">Type
+                                                  od Startups</strong></th>
+                                                  <th class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="0" css:text-align="left" dita-ot:x="2" dita-ot:y="1" id="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain">Description</strong></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody class="- topic/tbody tbody" css:display="table-row-group" css:vertical-align="middle">
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="1" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="2" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Scalable Startups</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="1" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="2" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">These companies, often in
+                                                  the tech <a broken-link="true" class="- topic/xref xref" css:display="inline" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" href="#unique_4" type="glossentry">niche<css:after css:display="inline" css:font-style="italic" css:link="#unique_4" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_4"/><css:text>)</css:text></css:after></a>,
+                                                  aim for a wide global reach. Their products
+                                                  include apps, online services, or other digital
+                                                  offerings.</td>
+                                                </tr>
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="2" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="3" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Self-launched
+                                                  Startups</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="2" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="3" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">Also known as small
+                                                  company ventures, these startups feature
+                                                  independent teams with minimal resources. They
+                                                  rely on self-funding, grow at their own pace, and
+                                                  face little pressure to scale quickly.</td>
+                                                </tr>
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="3" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="4" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Lifestyle Startups</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="3" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="4" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">Born from passion and
+                                                  hobbies, these startups allow owners to make a
+                                                  living doing what they love. They typically have
+                                                  low scalability and modest returns on
+                                                  investment.</td>
+                                                </tr>
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="4" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="5" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Startups to Buy</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="4" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="5" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">These companies are
+                                                  created to be sold to larger players for a
+                                                  profit.</td>
+                                                </tr>
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-1" colname="col1" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="5" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="6" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Ventures of Large
+                                                  Companies</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-1" colname="col2" css:border-bottom-style="solid" css:border-bottom-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="5" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="6" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">Startups initiated by big
+                                                  corporations, leveraging the parent company's
+                                                  resources and technology.</td>
+                                                </tr>
+                                                <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td class="- topic/entry entry align-left colsep-1 rowsep-0" colname="col1" css:border-right-style="solid" css:border-right-width="1px" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="6" css:text-align="left" css:vertical-align="top" dita-ot:x="1" dita-ot:y="7" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__1">Social Startups</td>
+                                                  <td class="- topic/entry entry align-left colsep-0 rowsep-0" colname="col2" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="6" css:text-align="left" css:vertical-align="top" dita-ot:x="2" dita-ot:y="7" headers="unique_3__unique_3_Connect_42_table_yqf_kr5_pbc__entry__2">These focus more on
+                                                  making a positive impact than on making money.
+                                                  They might run charities, educational prsograms,
+                                                  or other socially beneficial projects.</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title4" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="_1_3_common_features_of_startups" oid="_1_3_common_features_of_startups" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.3 Common Features of
+                                    Startups</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <div class="- topic/p p" css:display="block" css:margin-top="1em">Despite the many definitions and types
+                                        of startups, they all share a few key features:<ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ol_jlz_rs5_pbc" nd:nd-id="ol_jlz_rs5_pbc">
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Innovation: </strong>Startups don’t copy what’s
+                                                  already out there; they offer a unique product or
+                                                  service.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Scalability:</strong> They aim to create a
+                                                  business model that can be implemented in various
+                                                  markets, ideally worldwide.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Potentially Fast Growth:</strong> Startups are
+                                                  expected to grow quickly, offering large and
+                                                  speedy returns on investment.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Technological approach:</strong> using the latest
+                                                  available technology (e.g. AI), improving expired
+                                                  patents or other technological and scientific
+                                                  solutions. </p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Short
+                                                  Operating History: </strong>Typically, startups
+                                                  have been in operation for up to five years on
+                                                  average.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Risk:</strong> Startups are high-risk ventures
+                                                  with uncertain returns on investment.</p>
+                                            </li>
+                                        </ol></div>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title5" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" oid="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.4 Worth it or Not The Pros and Cons
+                                        of a Startup</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_6_Connect_42_fig_a5d_rlb_qbc" nd:nd-id="fig_a5d_rlb_qbc"><figcaption class="- topic/title title figcap" css:display="block" css:font-style="normal" css:page-break-after="avoid" data-caption-side="top"><span class="figtitleprefix fig--title-label" css:display="inline">Figure<span class="fig--title-label-number" css:display="inline"> 1</span><span class="fig--title-label-punctuation" css:display="inline">. </span></span><span class="fig--title" css:display="inline"><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Pros and cons of a Sturtup.
+                                                  Image from:
+                                            whatsup.es</span></span></figcaption><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Pros and cons of a Startup." chfox:inch="true" class="- topic/image image" css:display="inline" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Pros and cons of a Startup." dita-ot:image-height="483" dita-ot:image-width="724" href="file:/C:/New%20Folder/image/PNG/pros_and_cons_essay.png" id="unique_6_Connect_42_image_b5d_rlb_qbc" nd:nd-id="image_b5d_rlb_qbc" placement="inline" src="file:/C:/New%20Folder/image/PNG/pros_and_cons_essay.png"><css:content-on-element><css:uri extracted-image-height="483" extracted-image-width="724" uri="file:/C:/New%20Folder/image/PNG/pros_and_cons_essay.png"/></css:content-on-element></img></figure>
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Just like
+                                        everything else, start-ups have their pros and cons. It's
+                                        great to hear about the perks, but keep in mind that almost
+                                        90% of start-ups fail, so it's smart to check out the
+                                        risks.</p>
+                                </div>
+                                <article aria-labelledby="ariaid-title6" class="- topic/topic concept/concept topic concept nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_7" nd:nd-id="_1_4_1_advantages_of_a_startup" oid="_1_4_1_advantages_of_a_startup" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.4.1 Advantages of a
+                                            Startup</span></h3>
+                                    <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Advantages
+                                            of a Startup.</p>
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">
+                                            <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ol_dk5_3v5_pbc" nd:nd-id="ol_dk5_3v5_pbc">
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Low
+                                                  Cost of Entry:</strong>Statistics show that 1 in 3
+                                                  people starting a startup have a budget of less
+                                                  than $5,000, and there's often no need for a
+                                                  significant initial investment.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Freedom:</strong>You’re your own boss, pursuing
+                                                  your own vision... until you need to deal with
+                                                  investors.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Creativity:</strong> Startups thrive on
+                                                  innovation, requiring layers of creativity to
+                                                  launch and sustain the business. <a broken-link="true" class="- topic/xref xref" css:display="inline" href="#unique_8" type="glossentry">Founders<css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a>
+                                                  are often seen as visionaries.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Flexibility:</strong> Limited resources
+                                                  (financial or human) force quick adaptation to new
+                                                  solutions, work methods, or product
+                                                  directions.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Versatility:</strong> With small teams, employees
+                                                  often wear many hats and multitask.</p>
+                                                </li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article aria-labelledby="ariaid-title7" class="- topic/topic concept/concept topic concept nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_9" nd:nd-id="_1_4_2_disadvantages_and_risks_of_a_startup" oid="_1_4_2_disadvantages_and_risks_of_a_startup" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.4.2 Disadvantages and Risks of a
+                                            Startup</span></h3>
+                                    <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Disadvantages and risks of a startup.</p>
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">
+                                            <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_9_Connect_42_ol_ybx_lw5_pbc" nd:nd-id="ol_ybx_lw5_pbc">
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">High
+                                                  Risk:</strong> With innovative ideas, there’s no
+                                                  blueprint to follow. Learning from mistakes is
+                                                  common, and the product might not meet customer
+                                                  expectations. The risk of failure is
+                                                  substantial.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Funding Challenges: </strong>Startups often
+                                                  survive as long as <a broken-link="true" class="- topic/xref xref" css:display="inline" href="#unique_8" type="glossentry"><css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a><a broken-link="true" class="- topic/xref xref" css:display="inline" href="#unique_8" type="glossentry">founders<css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a>
+                                                  have personal funds or loan money. Finding
+                                                  external funding can be tough, especially with
+                                                  high competition. Without early investor
+                                                  cooperation or stable funding, even the best ideas
+                                                  can fail.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Limited Resources:</strong> Startups usually
+                                                  begin with small budgets and teams. This can
+                                                  hinder growth and operations, leading to internal
+                                                  conflicts. Despite limited resources initially,
+                                                  it’s crucial to establish procedures and
+                                                  responsibilities over time.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Lack
+                                                  of Defined Business Processes:</strong> Poorly
+                                                  defined processes can lead to bad customer
+                                                  service, financial losses, and even legal issues.
+                                                  Outsourcing can help, but high costs are a
+                                                  barrier.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Incorrect Business Model Assumptions:</strong>
+                                                  Over-optimism can doom a company. Regularly test
+                                                  and update your business model to quickly address
+                                                  flaws and shortcomings.</p>
+                                                </li>
+                                                <li class="- topic/li li" css:display="list-item">
+                                                  <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Ignoring Market Signals:</strong> Stay vigilant.
+                                                  Launching a product is just the beginning;
+                                                  maintaining and expanding it is another challenge.
+                                                  Monitor customer behavior, competitors, and the
+                                                  broader economic and social environment to react
+                                                  swiftly. Wishful thinking doesn’t work in
+                                                  business.</p>
+                                                </li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </article>
+                            </article>
+                            <article aria-labelledby="ariaid-title8" class="- topic/topic topic nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" oid="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">1.5 Why did the idea fail? Reasons why
+                                        a startup fails</span></h2>
+                                <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <div class="- topic/p p" css:display="block" css:margin-top="1em">As I mentioned earlier, startups are
+                                        high-risk ventures. There can be many obstacles that lead to
+                                        failure. It's crucial to consider potential weaknesses -
+                                        even at the idea stage. According to "The Top 20 Reasons
+                                        Startups Fail" report, the five most common reasons
+                                            are:<figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_10_Connect_42_fig_hvs_jmb_qbc" nd:nd-id="fig_hvs_jmb_qbc"><figcaption class="- topic/title title figcap" css:display="block" css:font-style="normal" css:page-break-after="avoid" data-caption-side="top"><span class="figtitleprefix fig--title-label" css:display="inline">Figure<span class="fig--title-label-number" css:display="inline"> 2</span><span class="fig--title-label-punctuation" css:display="inline">. </span></span><span class="fig--title" css:display="inline"><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">The most common reasons why
+                                                  startups fail.</span></span></figcaption><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" alt="Diagram shows the most common reasons why startups fail." chfox:inch="true" class="- topic/image image" css:display="inline" css:height="264px" css:image-resolution="96dpi" css:max-width="100%" css:oxy-alt-text="Diagram shows the most common reasons why startups fail." css:width="422px" dita-ot:image-height="529" dita-ot:image-width="845" height="264" href="file:/C:/New%20Folder/image/PNG/dlaczego%20startupy%20upadają.png" id="unique_10_Connect_42_image_ivs_jmb_qbc" nd:nd-id="image_ivs_jmb_qbc" placement="inline" scale="50" src="file:/C:/New%20Folder/image/PNG/dlaczego%20startupy%20upadaj%C4%85.png" width="422"><css:content-on-element><css:uri extracted-image-height="529" extracted-image-width="845" uri="file:/C:/New%20Folder/image/PNG/dlaczego%20startupy%20upadaj%C4%85.png"/></css:content-on-element></img></figure></div>
+                                    <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_10_Connect_42_ol_ckn_cz5_pbc" nd:nd-id="ol_ckn_cz5_pbc">
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Lack
+                                                  of Market Need:</strong>You have a groundbreaking
+                                                product or idea, but is it a viable solution or just
+                                                a catchy slogan? The assumptions and benefits might
+                                                not interest your target audience or be practical
+                                                for everyday use. When building a business model,
+                                                make sure your product solves a real problem and is
+                                                scalable. Remember, there's no need to reinvent the
+                                                wheel.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Financial Exhaustion:</strong> Startups allow you
+                                                to test an idea with low initial costs, but what
+                                                happens next? If you poorly define the market need
+                                                and business model, you might find that making
+                                                changes is both time-consuming and expensive. Even
+                                                external funding might not be enough if you need to
+                                                rebuild from scratch.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Lack
+                                                  of the Right Team:</strong> You have the idea and
+                                                the funding, but you don’t have the people to bring
+                                                it to life. Without a strong in-house team or a
+                                                reliable external partner, your product might never
+                                                reach the market, and you risk burning out.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Better
+                                                  Competition: </strong>Having competition is good -
+                                                it pushes you to improve. You need to create a
+                                                unique product that’s hard to copy. If you don’t
+                                                react quickly to changes and customer feedback, you
+                                                might lose out. Customers will choose a simpler,
+                                                higher-quality, more effective, or cheaper
+                                                solution.</p>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Price/Cost Issues:</strong> The market is
+                                                dynamic, and solutions developed 3-4 years ago might
+                                                be obsolete now. If your product's price doesn’t
+                                                match its quality, customers will move on. Producing
+                                                cheaply and pleasing investors doesn't always work.
+                                                A flawed business model, high costs for changes or
+                                                improvements, ignoring advisors, releasing products
+                                                too early or too late, legal issues - many factors
+                                                (often several at once) can make further investment
+                                                in a startup unprofitable.</p>
+                                        </li>
+                                    </ol>
+                                </div>
+                            </article>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

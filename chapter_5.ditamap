@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Roadmap</title>
+    <topicref href="Content/5_Roadmap.dita">
+        <topicref href="Content/5_1_draw_up_a_map_creating_a_product_roadmap.dita">
+            <topicref href="Content/5_1_1_product_vision_and_audience_needs.dita"/>
+            <topicref href="Content/5_1_2_product_concept_and_feature_selection.dita"/>
+            <topicref href="Content/5_1_3_budget_identify_resources.dita"/>
+            <topicref href="Content/5_1_4_timetable_divide_into_phases_and_define_time.dita"/>
+        </topicref>
+    </topicref>
+</map>

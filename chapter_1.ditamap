@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>I'm Starting a Startup!</title>
+    <topicref href="Content/1_i_m_starting_a_startup.dita">
+        <topicref href="Content/1_1_startup_means_actually_what.dita"/>
+        <topicref href="Content/1_2_a_startup_has_more_than_one_name_types_of_startups.dita"/>
+        <topicref href="Content/1_3_common_features_of_startups.dita"/>
+        <topicref href="Content/1_4_worth_it_or_not_the_pros_and_cons_of_a_startup.dita">
+            <topicref href="Content/1_4_1_advantages_of_a_startup.dita"/>
+            <topicref href="Content/1_4_2_disadvantages_and_risks_of_a_startup.dita"/>
+        </topicref>
+        <topicref href="Content/1_5_why_did_the_idea_fail_reasons_why_a_startup_fails.dita"/>
+    </topicref>
+</map>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_6_when_an_idea_becomes_reality_6_steps_to_a_finished_product">
+    <title>6. When an Idea Becomes Reality - 6 Steps to a Finished Product</title>
+    <body>
+        <fig id="fig_ens_wty_pbc">
+            <title>4 steps of Product Development Process</title>
+            <image href="../image/PNG/produckt%20development%20model.png.png" id="image_fns_wty_pbc"
+                width="700px" height="auto">
+                <alt>Product Development Process in 4 steps</alt>
+            </image>
+        </fig>
+        <p>Great job! You've already picked up some key terms about starting a business and
+            launching a startup. Some of these terms might have even come up more than once. Now,
+            let's dive into the product itself and, more importantly, the stages of its creation.
+            Creating a new product can seem complicated, but when you break it down into steps, it
+            becomes much more manageable and makes sense.</p>
+        <p>It's crucial to understand that product development is not the same as product
+            management!</p>
+        <p><b>Product management</b> covers every stage of the product lifecycle, dealing with all
+            aspects of managing the product. This includes creating the product strategy and
+            roadmap, development and launch, marketing and sales, user retention, and more.</p>
+        <p><b>Product development</b> has a more focused scope. It involves the entire journey of
+            the product, from idea and strategy to planning, building, and launching. It primarily
+            centers on developing and constructing the product itself, but can also include related
+            tasks like strategy and action planning.</p>
+        <p> </p>
+        <p>The process of creating a new product, although unique each time, can be boiled down to
+            six main steps. Following these steps helps break down tasks into manageable parts and
+            facilitates team collaboration. Here's the breakdown:</p>
+        <ol id="ol_qfl_mty_pbc">
+            <li>
+                <p>Gathering ideas</p>
+            </li>
+            <li>
+                <p>Market analysis</p>
+            </li>
+            <li>
+                <p>Conceptual design</p>
+            </li>
+            <li>
+                <p>Prototyping</p>
+            </li>
+            <li>
+                <p>Testing and refinement</p>
+            </li>
+            <li>
+                <p>Commercialization and Evaluation</p>
+            </li>
+        </ol>
+        <fig id="fig_c1r_c5y_pbc">
+            <title>6 Stages of Product Development Process</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/1_6%20Stages%20of%20Product%20Development.png.png"
+                id="image_d1r_c5y_pbc" width="700px" height="auto">
+                <alt>the most popular 6 stages of Product Development Process</alt>
+            </image>
+        </fig>
+        <p>By following these steps, you can turn a general idea into a finished, fully functional
+            product.</p>
+    </body>
+</topic>

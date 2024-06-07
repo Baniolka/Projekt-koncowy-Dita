@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup">
+    <title>1.4 Worth it or Not The Pros and Cons of a Startup</title>
+    <conbody>
+        <fig id="fig_a5d_rlb_qbc">
+            <title>Pros and cons of a Sturtup. Image from: whatsup.es</title>
+            <image href="../image/PNG/pros_and_cons_essay.png" id="image_b5d_rlb_qbc" width="700px"
+                height="auto">
+                <alt>Pros and cons of a Startup.</alt>
+            </image>
+        </fig>
+        <p>Just like everything else, start-ups have their pros and cons. It's great to hear about
+            the perks, but keep in mind that almost 90% of start-ups fail, so it's smart to check
+            out the risks.</p>
+    </conbody>
+</concept>

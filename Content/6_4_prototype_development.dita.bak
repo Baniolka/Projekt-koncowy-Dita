@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_6_4_prototype_development">
+    <title>6.4 Prototype Development</title>
+    <shortdesc>This is the phase where you create the first prototypes.</shortdesc>
+    <conbody>
+        <fig id="fig_fr5_kvy_pbc">
+            <title>Fourth step - Prototype Development</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/5_6%20Stages%20of%20Product%20Development.png.png"
+                scale="60" id="image_gr5_kvy_pbc">
+                <alt>Fourth step is the prototype development</alt>
+            </image>
+        </fig>
+        <p>This is the phase where you create the first prototypes. These can range from simple
+            sketches to more detailed simulations of the original design. Prototypes help identify
+            potential risks before the product is actually made. </p>
+        <p>Here's what you need to do:</p>
+        <ul id="ul_cfy_bvy_pbc">
+            <li>
+                <p>Create a prototype to test your idea in the market and gather feedback.</p>
+            </li>
+            <li>
+                <p>Document not only the device itself but also the market strategy and business
+                    plan.</p>
+            </li>
+            <li>
+                <p>Conduct internal tests on functionality, durability, safety, and transport.</p>
+            </li>
+            <li>
+                <p>Ensure the registration of patents, industrial designs, or utility models,
+                    depending on your target markets.</p>
+            </li>
+            <li>
+                <p>Plan production and logistical processes for mass production. Remember to
+                    document suppliers and orders so other team members can refer to them as
+                    needed.</p>
+            </li>
+        </ul>
+        <p> </p>
+        <section id="_6.4.1-The-Prototyping-Process">
+            <title>6.4.1 The Prototyping Process</title>
+            <p>Product conceptualization: You transform an idea into concrete concepts.</p>
+            <ol id="ol_dfy_bvy_pbc">
+                <li>
+                    <p><b>Technical specifications</b>: You define the specific requirements
+                        necessary to create the prototype.</p>
+                </li>
+                <li>
+                    <p><b>Choice of development method: </b>You determine whether the prototype will
+                        be developed outsourced or in-house.</p>
+                </li>
+                <li>
+                    <p><b>Testing with users:</b> You collect feedback and suggestions from
+                        potential users.</p>
+                </li>
+                <li>
+                    <p><b>Iteration and refinement:</b> You enhance elements of the prototype based
+                        on feedback and create additional versions.</p>
+                </li>
+                <li>
+                    <p><b>Production readiness:</b> You develop a final, validated version of the
+                        prototype before releasing it to the market.</p>
+                </li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

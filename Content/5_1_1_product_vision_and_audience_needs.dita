@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_5_1_1_product_vision_and_audience_needs">
+    <title>Product vision and audience needs</title>
+    <shortdesc>Identify your business objectives, form hypotheses, and understand your potential
+        product audience's needs.</shortdesc>
+    <conbody>
+        <p>
+            <ul id="ul_py1_3ry_pbc">
+                <li>
+                    <p><b>Objectives:</b> Define why the product exists and what it aims to achieve
+                        (general and business goals, KPIs).</p>
+                </li>
+                <li>
+                    <p><b>Business Hypotheses:</b> Instead of guessing your vision’s success, create
+                        hypotheses. This mindset encourages experimentation and allows for roadmap
+                        changes.</p>
+                </li>
+                <li><b>Target Audience:</b> Understanding audience needs shapes the product. Conduct
+                    market analysis, research potential users, and gather feedback. Include elements
+                        like:<ul id="ul_gxg_kry_pbc">
+                        <li>
+                            <p>Demographic characteristics</p>
+                        </li>
+                        <li>
+                            <p>Needs and expectations</p>
+                        </li>
+                        <li>
+                            <p>Activities and buying habits</p>
+                        </li>
+                        <li>
+                            <p>Problems and pain points</p>
+                        </li>
+                        <li>
+                            <p>Available technological solutions</p>
+                        </li>
+                    </ul></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

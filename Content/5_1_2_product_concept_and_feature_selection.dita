@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_5_1_2_product_concept_and_feature_selection">
+    <title>Product concept and feature selection</title>
+    <shortdesc>Define what the product should look like and its functions. </shortdesc>
+    <conbody>
+        <p>Outline the value it offers. To verify this, create an <xref href="8_glossary.dita#mvp"
+                >MVP</xref> (Minimum Viable Product) to test your concept and list the necessary
+            features to add to the roadmap. Features and functions can include:</p>
+        <ul id="ul_xjk_wl2_qbc">
+            <li>
+                <p>Key features</p>
+            </li>
+            <li>
+                <p>Additional features</p>
+            </li>
+            <li>
+                <p>Visual features (interface, branding, integrations)</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

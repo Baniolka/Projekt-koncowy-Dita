@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_1_2_a_startup_has_more_than_one_name_types_of_startups">
+    <title>A startup has more than one name...types of startups</title>
+    <shortdesc>There are many types of startups. The most popular are presented below. </shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_yqf_kr5_pbc">
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*" align="left"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" align="left"/>
+                <thead>
+                    <row valign="middle">
+                        <entry><b> Type od Startups</b></entry>
+                        <entry><b> Description</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Scalable Startups</entry>
+                        <entry>These companies, often in the tech <xref href="8_glossary.dita#niche"
+                                >niche</xref>, aim for a wide global reach. Their products include
+                            apps, online services, or other digital offerings.</entry>
+                    </row>
+                    <row>
+                        <entry>Self-launched Startups</entry>
+                        <entry>Also known as small company ventures, these startups feature
+                            independent teams with minimal resources. They rely on self-funding,
+                            grow at their own pace, and face little pressure to scale
+                            quickly.</entry>
+                    </row>
+                    <row>
+                        <entry>Lifestyle Startups</entry>
+                        <entry>Born from passion and hobbies, these startups allow owners to make a
+                            living doing what they love. They typically have low scalability and
+                            modest returns on investment.</entry>
+                    </row>
+                    <row>
+                        <entry>Startups to Buy</entry>
+                        <entry>These companies are created to be sold to larger players for a
+                            profit.</entry>
+                    </row>
+                    <row>
+                        <entry>Ventures of Large Companies</entry>
+                        <entry>Startups initiated by big corporations, leveraging the parent
+                            company's resources and technology.</entry>
+                    </row>
+                    <row>
+                        <entry>Social Startups</entry>
+                        <entry>These focus more on making a positive impact than on making money.
+                            They might run charities, educational prsograms, or other socially
+                            beneficial projects.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

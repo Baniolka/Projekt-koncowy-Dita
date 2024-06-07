@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>From idea to business.... a little guide for the future Startup. <image
+                href="image/PNG/img-dqo8u7RAOQ4CjANZRSmMI3dS.png" width="500px" height="auto"/>
+        </mainbooktitle>
+            </booktitle>
+    <bookmeta>
+        <author>Paulina Głowacka</author>
+        <bookrights>
+            <copyrfirst>
+                <year>2024</year>
+            </copyrfirst>
+            <bookowner>
+                <person>Paulina Głowacka</person>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <preface>
+        </preface>
+    </frontmatter>
+    <chapter format="ditamap" href="chapter_1.ditamap"/>
+    <chapter format="ditamap" href="chapter_2.ditamap"/>
+    <chapter format="ditamap" href="chapter_3.ditamap"/>
+    <chapter format="ditamap" href="chapter_4.ditamap"/>
+    <chapter format="ditamap" href="chapter_5.ditamap"/>
+    <chapter format="ditamap" href="chapter_6.ditamap"/>
+    <chapter format="ditamap" href="chapter_7.ditamap"/>
+    <chapter href="some_advice_at_the_end.ditamap" format="ditamap"/>
+    <chapter href="Content/8_glossary.dita"/>
+    
+</bookmap>

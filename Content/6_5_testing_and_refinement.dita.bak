@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_6_5_testing_and_refinement">
+    <title>6.5 Testing and Refinement</title>
+    <shortdesc>During this phase, you release the prototype "into the wild" to tests.</shortdesc>
+    <conbody>
+        <fig id="fig_mzr_5vy_pbc">
+            <title>Fifth step - Testing and Refinement</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/6_6%20Stages%20of%20Product%20Development.png.png"
+                scale="60" id="image_nzr_5vy_pbc">
+                <alt>Fifth step is testing and refinement</alt>
+            </image>
+        </fig>
+        <p>During this phase, you release the prototype "into the wild" to ensure it meets the
+            expectations of the target audience. </p>
+        <p>Here's what you need to do:</p>
+        <ul id="ul_bpx_nvy_pbc">
+            <li>
+                <p>Launch a sample batch of products (<xref href="8_glossary.dita#mmp"
+                    >MMP</xref>).</p>
+            </li>
+            <li>
+                <p>Conduct marketing tests to gather feedback from initial users.</p>
+            </li>
+            <li>
+                <p>Refine the product based on the results of user acceptance tests (<xref
+                        href="8_glossary.dita#uat">UAT</xref>).</p>
+            </li>
+            <li>
+                <p>Release the revised product (next iteration).</p>
+            </li>
+            <li>
+                <p>Finalize the design and prepare the final technical and engineering
+                    documentation.</p>
+            </li>
+            <li>
+                <p>Finalize the marketing plan, including setting the price, promotional strategy,
+                    and preparing the marketing campaign.</p>
+            </li>
+        </ul>
+        <p>Once these steps are completed, you seamlessly transition from prototype to final
+            product, ready for scaling and further iterations.</p>
+    </conbody>
+</concept>

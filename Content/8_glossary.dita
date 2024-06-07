@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossarygroup.dtd">
+<glossgroup id="glossary">
+    <title>Glossary of terms</title>
+<glossentry id="bootstrapping">
+    <glossterm>Bootstrapping</glossterm>
+    <glossdef>Is a term used in business to refer to the process of starting and growing a business using only existing resources, such as personal savings, personal computer equipment, and garage space, without relying on external funding or investors.</glossdef>
+</glossentry>
+
+<glossentry id="clv">
+    <glossterm>CLV</glossterm>
+    <glossdef>(Customer Lifetime Value) - the total net profit generated from all transactions made by a specific customer over the entire duration of their relationship with a business.</glossdef>
+</glossentry>
+
+<glossentry id="desk_research">
+    <glossterm>Desk research</glossterm>
+    <glossdef>Or secondary data analysis, is the process of collecting, reviewing and analyzing information that has already been collected and published by other individuals or institutions. Sources of this data can include the Internet, the press, scientific literature, reports, databases, government documents and other available publications.</glossdef>
+</glossentry>
+
+<glossentry id="empathy_map">
+    <glossterm>Empathy Map</glossterm>
+    <glossdef>A visual tool and user profiling technique are used to better understand users' thoughts, feelings, experiences, and needs. It helps teams to empathize with users by visualizing their perspective, enabling them to design solutions that better meet user expectations and address their pain points effectively.</glossdef>
+</glossentry>
+
+<glossentry id="feasibility_study">
+    <glossterm>Feasibility study</glossterm>
+    <glossdef>Analyses the viability of a project to determine whether the project or venture is likely to succeed. The study is also designed to identify potential issues and problems that could arise while pursuing the project.</glossdef>
+</glossentry>
+
+<glossentry id="fgi">
+    <glossterm>FGI</glossterm>
+    <glossdef>(Focus Group Interview) is a discussion conducted by a moderator in a group of purposely selected people. The best results are obtained in a group of a minimum of 6 and a maximum of 12 people. The discussion is focused on a specific topic or several topics. </glossdef>
+</glossentry>
+
+<glossentry id="founder">
+    <glossterm>Founder</glossterm>
+    <glossdef>Startup creator, initiator.</glossdef>
+</glossentry>
+
+<glossentry id="gross_profit_margin">
+    <glossterm>Gross profit margin</glossterm>
+    <glossdef>To the percentage of revenue that exceeds the cost of goods sold, representing the amount of profit generated from the sale of goods before deducting operating expenses.</glossdef>
+</glossentry>
+
+<glossentry id="mmp">
+    <glossterm>MMP</glossterm>
+    <glossdef>(Minimum Marketable Product)  this concept is similar to MVP (Minimum Viable Product), but it focuses on ensuring the product is market-ready and sellable, even if it's still in the development phase. The goal is to quickly deliver a product that meets minimal market requirements.</glossdef>
+</glossentry>
+
+<glossentry id="mvp">
+    <glossterm>MVP</glossterm>
+    <glossdef>(Minimum Viable Product) - a version of a product with the minimum necessary functionality that allows a team to collect the maximum amount of validated learning about customers with the least effort. An MVP includes only the core features essential to satisfy early adopters and to provide feedback for future development.</glossdef>
+</glossentry>
+
+<glossentry id="niche">
+    <glossterm>Niche</glossterm>
+    <glossdef>A narrow segment of customers who have specific, unmet expectations.</glossdef>
+</glossentry>
+
+<glossentry id="product_market_fit">
+    <glossterm>Product-market fit</glossterm>
+    <glossdef>This means having a product that meets the needs of a specific market segment or target audience in a way that resonates with them. When an entrepreneur identifies a significant problem or need within a market and develops a solution that effectively addresses it, thereby generating demand and satisfying customers' desires, they have achieved product-market fit.</glossdef>
+</glossentry>
+
+<glossentry id="roi">
+    <glossterm>ROI</glossterm>
+    <glossdef>(Return on Investment) is an indicator used to evaluate the effectiveness of investments. It allows you to assess the success of marketing efforts and the profitability of advertising. ROI directly measures the amount of return on a specific investment in relation to its cost.</glossdef>
+</glossentry>
+
+<glossentry id="swot">
+    <glossterm>SWOT</glossterm>
+    <glossdef>Analysis is a strategic planning and management technique used to identify Strengths, Weaknesses, Opportunities, and Threats related to business competition or project planning. It is a structured approach that helps individuals or organizations assess internal factors (Strengths and Weaknesses) and external factors (Opportunities and Threats) affecting their objectives. SWOT analysis is sometimes referred to as a situational assessment or situational analysis.</glossdef>
+</glossentry>
+
+<glossentry id="uat">
+    <glossterm>UAT</glossterm>
+    <glossdef>(User Acceptance Testing), which is performed on most IT projects and sometimes called beta testing or end-user testing, is a phase of software development in which the software is tested in the "real world" by the intended audience or business representatives.</glossdef>
+</glossentry>
+
+<glossentry id="unicorn">
+    <glossterm>Unicorn</glossterm>
+    <glossdef>Companies/startups that have achieved a valuation of at least one billion US dollars. Examples: Facebook, Booksy, SpaceX, Klarna, OpenAI.</glossdef>
+</glossentry>
+
+<glossentry id="value_proposition_canvas">
+    <glossterm>Value Proposition Canvas</glossterm>
+    <glossdef>A strategic management tool used to analyze and design the value proposition of a product or service about specific customer segments.  It helps businesses understand their customers' needs, pains, and gains, and how their offering uniquely addresses these elements. By visualizing the alignment between the value proposition and customer segments, organizations can refine their strategies to better meet customer needs and achieve competitive advantage.</glossdef>
+</glossentry>
+
+<glossentry id="vc">
+    <glossterm>VC</glossterm>
+    <glossdef>(Venture Capital) - to a form of private equity financing provided by investors to startups and small businesses with high growth potential. Venture capitalists typically invest in companies that are in the early stages of development and require capital to expand or develop new products and services. In exchange for their investment, venture capitalists often receive equity stakes in the companies they invest in. Additionally, venture capitalists may provide expertise, guidance, and networking opportunities to help the companies they invest in succeed.</glossdef>
+</glossentry>
+</glossgroup>

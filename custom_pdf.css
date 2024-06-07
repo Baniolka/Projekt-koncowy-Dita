@@ -1,0 +1,162 @@
+/* custom.css */
+
+/* Podstawowe ustawienia dla całego dokumentu */
+html, .root {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+@page {
+  size: A4; /* Set the page size to A4 */
+  margin: 2cm; /* Set the margins to 2cm */
+}
+
+.note {
+  background-color: #D9D9D9;
+  padding: 20px;
+}
+
+body, .article {
+  font-family: 'Lato', sans-serif; /* Dodajemy font Lato */
+  font-size: 1em;
+  color: #040404;
+  line-height: 1.4em;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px; /* Dodajemy domyślny padding */
+}
+
+/* Stylowanie nagłówków */
+h1, .h1 {
+  font-size: 4.25em;
+  font-weight:bold;
+  line-height: 1.3em;
+  margin-top: 0em;
+  margin-bottom: 0.6em;
+  color: #284B63; /* Dodajemy kolor */
+}
+
+h2, .h2 {
+  font-size: 2.6em;
+  font-weight:bold;
+  line-height: 1.2em;
+  margin-top: 1em;
+  margin-bottom: 0.8em;
+  color: #3C6E71; /* Dodajemy kolor */
+}
+
+h3, .h3 {
+  font-size: 1.6em;
+  font-weight:bold;
+  line-height: 1.5em;
+  margin-top: 0.6em;
+  margin-bottom: 0.4em;
+  color: #353535; /* Dodajemy kolor */
+}
+
+h4, .h4, h5, .h5 {
+  font-size: 1em;
+  line-height: 1.3em;
+  margin-top: 0.6em;
+  margin-bottom: 0.4em;
+  color: #353535; 
+}
+
+td {
+  padding: 10px; /* Adjust padding as needed */
+  vertical-align: middle; /* Align text vertically in table cells */
+}
+
+/* Stylowanie paragrafów, list, tabel i cytatów */
+p, ul, ol, pre, table, blockquote {
+  text-align: justify;
+  line-height: 1.5em; /* Increase line height */
+  margin-top: 1.0em;
+  margin-bottom: 1.0em;
+  color: #353535; /* Dodajemy kolor dla paragrafów */
+}
+
+
+/* Stylowanie zagnieżdżonych list */
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  padding-left: 20px;
+}
+
+/* Dostosowanie wyrównania */
+hr, .hr {
+  border: 1px solid #ddd;
+  margin: -1px 0;
+}
+/* Styl wyśrodkowania dla rysunku */
+.center-figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
+    color: #353535;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px; /* Adjust maximum width as needed */
+    height: auto;
+}
+
+@media print {
+            img {
+                max-width: 150mm; /* lub dowolna inna jednostka jak cm, in */
+                height: auto;
+            }
+            
+            fig {max-width: 150mm; /* lub dowolna inna jednostka jak cm, in */
+                height: auto;}
+ 
+.center-figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px; /* Dodajemy maksymalną szerokość dla obrazków */
+    height: auto;
+}
+ figure {
+    display : block;
+    margin-left : 25mm ; /* adjust as needed */
+    margin-right: 25mm; /* adjust as needed */ 
+ } 
+ 
+ figure img { 
+    vertical-align : top;
+} 
+ 
+ figure figcaption { 
+   /* border : 1px dotted gray;  */
+    display: block;
+    text-align: center;
+    margin-top: 10px; /* Add margin between image and caption */
+ }
+ 
+/* Stylowanie tekstu w liniach */
+a, b, i, strong, em, small, code {
+  line-height: 1.5;
+}
+
+sub, sup {
+  line-height: 1;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+

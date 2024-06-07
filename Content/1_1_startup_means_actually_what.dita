@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_1startup_means_actually_what">
+    <title>Startup...means actually what?</title>
+    <shortdesc>The term "startup" can have different definitions, but here are four of the most
+        popular ones: </shortdesc>
+    <conbody>
+        <p>
+            <ol id="ol_n1p_wn5_pbc">
+                <li>
+                    <p><b>Colloquial Definition:</b> A startup is a young, innovative company, often
+                        in the tech sector, that doesn’t follow established business models. It aims
+                        to bring a unique product to the market. It’s a temporary entity that
+                        becomes a full-fledged company once it finds its business model. Startups
+                        are high-risk investments with uncertain returns.</p>
+                </li>
+                <li>
+                    <p><b>Eric Ries's Definition: </b>He describes it as <q>a human institution
+                            designed to create new products and services under conditions of extreme
+                            uncertainty.</q></p>
+                </li>
+                <li>
+                    <p><b>Krakow Definition: </b>A startup is <q>an organization that uses external
+                            funding and market experimentation to find a way to create customer
+                            value based on innovation that can be scaled globally.</q></p>
+                </li>
+                <li><b>Spiral Definition:</b> Dr. Skala, an expert with the Startup Poland
+                    Foundation, defines a startup as an organization with limited resources and
+                    uncertain demand for its products. The phases of startup development are:<ul
+                        id="ul_lnh_5q5_pbc">
+                        <li>
+                            <p>Finding an innovative business model</p>
+                        </li>
+                        <li>
+                            <p>Using modern technology</p>
+                        </li>
+                        <li>
+                            <p>Launching a new product</p>
+                        </li>
+                        <li>
+                            <p>Creating disruptive innovations that radically change how customer
+                                needs are met</p>
+                        </li>
+                        <li>
+                            <p>Ensuring rapid user growth (hyperscalability)</p>
+                        </li>
+                        <li>
+                            <p>Creating an effective mechanism to translate user numbers into
+                                revenue growth</p>
+                        </li>
+                        <li>
+                            <p>Translating revenue growth into exponential growth in business
+                                value</p>
+                        </li>
+                    </ul></li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

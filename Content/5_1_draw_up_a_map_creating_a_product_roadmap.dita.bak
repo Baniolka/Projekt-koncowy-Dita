@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_5_1_draw_up_a_map_creating_a_product_roadmap">
+    <title>5.1 Draw Up a Map: Creating a Product Roadmap</title>
+    <shortdesc>A thorough explanation of what a roadmap is, especially for a startup.</shortdesc>
+    <conbody>
+        <fig id="fig_xft_lw3_qbc">
+            <title>Sample Product Roadmap (source: okry.pl)</title>
+            <image href="../image/PNG/roadmap-template-ProducPlan.png" id="image_yft_lw3_qbc"
+                width="700px" height="auto">
+                <alt>Product Roadmap example</alt>
+            </image>
+        </fig>
+        <p>Your vision is constant, your strategy can change, and your roadmap needs to adapt and
+            keep up with feedback. It's a 'living' document you should check regularly. There are
+            many roadmap templates you can use for visualization: goal-oriented roadmaps, Jira
+            boards, Gantt charts, or a simple timeline. Choose what works for you. Consider who
+            you’re sharing your roadmap with (internal teams, investors, or potential customers) and
+            the level of detail you want to convey.</p>
+    </conbody>
+</concept>

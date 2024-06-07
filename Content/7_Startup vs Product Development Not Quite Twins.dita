@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_7_startup_vs_product_development_not_quite_twins">
+    <title>Startup vs product development: not quite twins!</title>
+    <conbody>
+        <p>Is Startup Development the Same as Product Development? After all, certain phrases and terms have been used here almost non-stop...</p>
+        <p>They are not the same thing. By definition, startup development is a linear process that leads to success and transformation into a company (Exit phase). Product development, on the other hand, is more like a never-ending cycle. It's about creating a product, sure, but it's also about constantly improving it and making new versions. There's no finish line!</p>
+        <p>Below is a comparative diagram of startup and product development. For simplicity, both are shown as linear processes. All the elements I've mentioned are included. Now it's your turn to dive in and analyze them!</p>
+        
+        <fig id="fig_c1r_c7y_pbc">
+            <title>6 Stages of Startup Development Process</title>
+            <image href="../image/PNG/Startup%20vs%20produckt%20development.png.png"
+                id="image_d1r_c7y_pbc" width="700px" height="auto">
+                <alt>the most popular 6 phases of Startup Development</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

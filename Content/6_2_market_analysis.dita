@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_6_2_market_analysis">
+    <title>Market analysis</title>
+    <shortdesc>This phase helps you pinpoint your target market, understand its size, and identify
+        growth opportunities.</shortdesc>
+    <conbody>
+        <fig id="fig_p5s_s5y_pbc">
+            <title>Second step - Market Analysis</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/3_6%20Stages%20of%20Product%20Development.png.png"
+                scale="60" id="image_q5s_s5y_pbc" alt="under">
+                <alt>Second step is market analysis</alt>
+            </image>
+        </fig>
+        <p>By uncovering the latest trends and customer desires, you'll realize we focus more on
+            fulfilling a need rather than creating a specific product. Here's what you need to
+            do:</p>
+        <ul id="ul_ydh_t5y_pbc">
+            <li>
+                <p>Check legislation, legal restrictions, and possible patents. Read up on EU
+                    directives and harmonized standards.</p>
+            </li>
+            <li>
+                <p>Research the competition. You can do this through <xref
+                        href="8_glossary.dita#desk_research">desk research</xref>, talking to
+                    experts, or hiring an external company to study the market and competitors.</p>
+            </li>
+            <li>
+                <p>Conduct benchmarking by analyzing competitors' moves, actions, and
+                    advantages.</p>
+            </li>
+            <li>
+                <p>Gather initial feedback. Regular customer feedback helps improve the product.</p>
+            </li>
+            <li>
+                <p>Create a targeted product strategy based on the data collected.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="roadmap">
+    <title>5. Roadmap</title>
+    <body>
+        <fig id="fig_vzb_nqy_pbc">
+            <title>Startup Roadmap from hrfibreglass.co.uk</title>
+            <image href="../image/PNG/road-map.png" id="image_wzb_nqy_pbc" align="center"
+                width="800px" alt="under" height="auto">
+                <alt>The idea of ​​a business roadmap as a road with waypoints</alt>
+            </image>
+        </fig>
+        <p>You’ve got the vision outlined, the strategy is in place, and there’s probably a business
+            model and a typical business plan on file. Now, it’s time to dive into the details.</p>
+        <p>A roadmap is a document, often presented as a graphical diagram, that outlines the vision
+            for the emerging product, the work plan, performance metrics, and other critical
+            information. This helps the team see where they are and whether they’re making progress.
+            The roadmap should be clear and understandable for everyone. Each team member has
+            specific tasks aimed at achieving a common goal, and the roadmap helps visualize this.
+            You might even create different roadmaps for different teams or departments, but they
+            should all aim for the same goals.</p>
+        <p>Startups often struggle to stay focused due to the vast amount of work and limited time
+            and resources. A product roadmap provides a clear direction and helps your team align on
+            key priorities.</p>
+        <p/>
+        <p><b>When do you need a roadmap?</b> Usually, when you want or need a broader view of
+            the product’s future or to check assumptions about the target audience, needs, or key
+            business aspects. If you’re uncertain about the future of your product development,
+            don’t bother with a roadmap.</p>
+        <p>Every product is unique, so there’s no one-size-fits-all template for a roadmap. However,
+            consider including the following areas:<ul id="ul_vrh_y4y_pbc">
+                <li>
+                    <p>Product vision</p>
+                </li>
+                <li>
+                    <p>Business goals</p>
+                </li>
+                <li>
+                    <p>Deadlines and milestones</p>
+                </li>
+                <li>
+                    <p>Product features</p>
+                </li>
+                <li>
+                    <p>Teams</p>
+                </li>
+                <li>
+                    <p>Feedback and iterations</p>
+                </li>
+                <li>
+                    <p>Resources</p>
+                </li>
+                <li>
+                    <p>Indicators of success</p>
+                </li>
+            </ul></p>
+        <p>A well-crafted roadmap can guide your startup through the complexities of product
+            development and keep everyone focused on the same objectives.</p>
+    </body>
+</topic>

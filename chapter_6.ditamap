@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>When an Idea Becomes Reality - 6 Steps to a Finished Product</title>
+    <topicref href="Content/6_when_an_idea_becomes_reality_6_steps_to_a_finished_product.dita">
+        <topicref href="Content/6_1_gathering_ideas.dita"/>
+        <topicref href="Content/6_2_market_analysis.dita"/>
+        <topicref href="Content/6_3_conceptual_design.dita"/>
+        <topicref href="Content/6_4_prototype_development.dita"/>
+        <topicref href="Content/6_5_testing_and_refinement.dita"/>
+        <topicref href="Content/6_6_commercialization_and_evaluation.dita"/>
+    </topicref>
+</map>

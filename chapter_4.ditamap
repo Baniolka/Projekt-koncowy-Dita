@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Let's break it down... the business model.</title>
+    <topicref href="Content/4_let_s_break_it_down_the_business_model.dita">
+        <topicref href="Content/4_1_what_do_you_actually_want_understanding_the_business_model.dita"/>
+        <topicref href="Content/4_2_alright_let_s_break_it_down_the_phases_of_business_model_development.dita"/>
+        <topicref href="Content/4_3_theory_versus_practice_how_do_you_actually_write_it_down.dita">
+            <topicref href="Content/4_3_1_the_canvas_model_has_following_advantages.dita"/>
+            <topicref href="Content/4_3_2_elements_of_canvas_model.dita"/>
+            <topicref href="Content/4_3_3_other_business_models.dita"/>
+        </topicref>
+    </topicref>
+</map>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_5_1_3_budget_identify_resources">
+    <title>Budget: identify resources</title>
+    <shortdesc>Determine what you need to create the product - capital, people, tools? </shortdesc>
+    <conbody>
+        <p>Resource selection impacts the product plan and roadmap. Aligning resources with needs is
+            crucial for reaching your goals. A poorly defined budget can cause delays and give
+            competitors an edge. Budget elements to include:</p>
+        <ul id="ul_jt2_sq2_qbc">
+            <li>
+                <p>Staff costs</p>
+            </li>
+            <li>
+                <p>Tools and software costs</p>
+            </li>
+            <li>
+                <p>Material and external service costs</p>
+            </li>
+            <li>
+                <p>Estimated total project cost</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

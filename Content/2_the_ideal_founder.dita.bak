@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_2_the_ideal_founder">
+    <title>2. The Ideal Founder...Five Essential Skills to Lead a Startup </title>
+    <conbody>
+        <fig id="fig_ox1_cq2_qbc">
+            <title>The ideal founder its multitasking man (image by pngtree.com)</title>
+            <image
+                href="../image/PNG/%E2%80%94Pngtree%E2%80%94human%20resource%20and%20self%20employment_6251477.png"
+                id="image_px1_cq2_qbc" align="center" alt="under" width="800px" height="auto">
+                <alt>The ideal founder its multitasking man</alt>
+            </image>
+        </fig>
+        <ol>
+            <li><b>Team-Building Skills</b>
+                <p>Success starts with the right team. Find people who can help develop the startup
+                    and the product, and ensure they work well together.</p>
+                <u>As a <xref href="8_glossary.dita#founder">founder</xref>, it's great if:</u>
+                <ul>
+                    <li>You have a knack for understanding people and selecting the right ones.</li>
+                    <li>You can make tough decisions about your team.</li>
+                    <li>You are impartial but demanding.</li>
+                    <li>Empathy also comes in handy.</li>
+                </ul>
+            </li>
+            <li><b>Communication and Management Skills</b>
+                <p>Picking the right people is just the beginning. You also will need to manage and
+                    communicate effectively with them.</p>
+                <u>As a <xref href="8_glossary.dita#founder">founder</xref>, it's great if:</u>
+                <ul>
+                    <li>You can communicate clearly?</li>
+                    <li>You know how to delegate tasks.</li>
+                    <li>You can communicate well with employees, business partners, investors,
+                        etc.</li>
+                </ul>
+            </li>
+            <li><b>Financial Skills</b>
+                <p>The biggest danger for a startup is losing liquidity. Good financial management
+                    and accounting skills are crucial, and the ability to raise external funding is
+                    vital.</p>
+                <u>As a <xref href="8_glossary.dita#founder">founder</xref>, it's great if:</u>
+                <ul>
+                    <li>You know how to manage liquidity.</li>
+                    <li>You understand pricing, cash flow, revenue modeling, profits, costs,
+                        etc.</li>
+                    <li>You can eventually hand over these responsibilities to a hired
+                        specialist.</li>
+                </ul>
+            </li>
+            <li><b>Sales Skills</b>
+                <p>One of the key skills for a startup is effective salesmanship. It's not just
+                    about pushing your product but understanding customer needs and building
+                    relationships.</p>
+                <u>As a <xref href="8_glossary.dita#founder">founder</xref>, it's great if:</u>
+                <ul>
+                    <li>You understand potential customers' needs.</li>
+                    <li>You can establish strong relationships with them.</li>
+                    <li>You know how to generate interest in your product.</li>
+                </ul>
+            </li>
+            <li><b>Technical Skills</b>
+                <p>Especially important if you're creating a tech startup. You won’t be able to
+                    delegate all technical aspects to an outside company; this knowledge is crucial
+                    for the project's success and team motivation.</p>
+                <u>As a <xref href="8_glossary.dita#founder">founder</xref>, it's great if:</u>
+                <ul>
+                    <li>You have experience in technology industries.</li>
+                    <li>You have at least a minimal interest in new technologies.</li>
+                </ul>
+            </li>
+        </ol>
+        <p></p>
+    </conbody>
+</concept>

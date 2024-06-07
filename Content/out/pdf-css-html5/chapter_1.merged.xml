@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/pGlowacka/AppData/Local/Programs/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/New%20Folder/Content/chapter_1.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Chapter 1</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Chapter 1</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_1_i_m_starting_a_startup"><resourceid appid="_1_i_m_starting_a_startup" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">1. I'm Starting a Startup!</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1_1startup_means_actually_what"><resourceid appid="_1_1startup_means_actually_what" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">1.1 Startup...means actually what?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Definitions of a start-up</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="_1_2_a_startup_has_more_than_one_name_types_of_startups"><resourceid appid="_1_2_a_startup_has_more_than_one_name_types_of_startups" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">1.2 A startup has more than one name...types of startups</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Types of startups</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1_3_common_features_of_startups"><resourceid appid="_1_3_common_features_of_startups" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">1.3 Common Features of Startups</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup"><resourceid appid="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">1.4 Worth it or Not The Pros and Cons of a Startup</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1_4_1_advantages_of_a_startup"><resourceid appid="_1_4_1_advantages_of_a_startup" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">1.4.1 Advantages of a Startup</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Advantages of a Startup.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="_1_4_2_disadvantages_and_risks_of_a_startup"><resourceid appid="_1_4_2_disadvantages_and_risks_of_a_startup" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">1.4.2 Disadvantages and Risks of a Startup</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Disadvantages and risks of a startup.</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_10" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails"><resourceid appid="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">1.5 Why did the idea fail? Reasons why a startup fails</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="_1_i_m_starting_a_startup" oid="_1_i_m_starting_a_startup" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1. I'm Starting a Startup!</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Yes, the day has finally come to shout it out to everyone, or at least let your family
+            and friends know, that you've got a brilliant idea and you're diving into business.
+            You're starting a startup! You’ll be like Elon Musk or Mark Zuckerberg... some basement
+            or garage will also be found... You can already picture the investors and customers
+            lining up for your product, competitors in tears, fame, and glamour... WHOA, WHOA...
+            hold your horses.</p>
+        <p class="- topic/p ">To make all that a reality, you need knowledge, a plan, time, and a fair bit of honest
+            self-reflection. This guide will help you get a grasp of what a startup is, its pros and
+            cons, the qualities you need as a founder, the steps to take, and the methods
+            available.</p>
+        <p class="- topic/p ">It's a long journey from an idea to a product, so grab a notebook and let's dive into
+            this guide together.</p>
+        <bodydiv class="- topic/bodydiv "/>
+        <note class="- topic/note " id="unique_1_Connect_42_note_dzd_yh5_pbc" nd:nd-id="note_dzd_yh5_pbc">
+            <p class="- topic/p ">Ladies, I've used the male form to simplify communication. This isn't just by
+                chance... The statistics aren't in our favour when it comes to founding startups.
+                Research shows that the two most common types of founders are men:<table class="- topic/table " colsep="1" frame="all" id="unique_1_Connect_42_table_zqj_qj5_pbc" nd:nd-id="table_zqj_qj5_pbc" rowsep="1">
+                    <tgroup align="left" class="- topic/tgroup " cols="2">
+                        <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;25:73" xtrf="file:/C:/New%20Folder/Content/1_i_m_starting_a_startup.dita" style="width:50%;"/>
+                        <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;26:73" xtrf="file:/C:/New%20Folder/Content/1_i_m_starting_a_startup.dita" style="width:50%;"/>
+                        <thead class="- topic/thead ">
+                            <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">
+                                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Young startup founder</b> (20-40 years old), who has:</p>
+                                </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Old startup founder</b> (&gt;40 years old), who has:</entry></row>
+                        </thead>
+                        <tbody class="- topic/tbody ">
+                            <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">
+                                    <ul class="- topic/ul " id="unique_1_Connect_42_ul_kbf_5j5_pbc" nd:nd-id="ul_kbf_5j5_pbc">
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">a positive attitude</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">openness to cooperation with others</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">ability to set goals</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">not afraid to ask for feedback</p>
+                                        </li>
+                                    </ul>
+                                </entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                                    <ul class="- topic/ul " id="unique_1_Connect_42_ul_hf5_5j5_pbc" nd:nd-id="ul_hf5_5j5_pbc">
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">experience in marketing and sales</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">project management skills</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">ability to select people for the team</p>
+                                        </li>
+                                        <li class="- topic/li ">
+                                            <p class="- topic/p ">knowledge of how to raise money for investments</p>
+                                        </li>
+                                    </ul>
+                                </entry></row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </note>
+        <p class="- topic/p ">Trends, like everything else, change. There are more and more women stepping up, but
+            knowledge stays neutral. So, let's take this journey together.</p>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="_1_1startup_means_actually_what" oid="_1_1startup_means_actually_what" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.1 Startup...means actually what?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Definitions of a start-up</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The term "startup" can have different definitions, but here are four of the most popular
+                ones:
+            <ol class="- topic/ol " id="unique_2_Connect_42_ol_n1p_wn5_pbc" nd:nd-id="ol_n1p_wn5_pbc">
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Colloquial Definition:</b> A startup is a young, innovative company, often
+                        in the tech sector, that doesn’t follow established business models. It aims
+                        to bring a unique product to the market. It’s a temporary entity that
+                        becomes a full-fledged company once it finds its business model. Startups
+                        are high-risk investments with uncertain returns.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Eric Ries's Definition: </b>He describes it as <q class="- topic/q ">a human institution
+                            designed to create new products and services under conditions of extreme
+                            uncertainty.</q></p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Krakow Definition: </b>A startup is <q class="- topic/q ">an organization that uses external
+                            funding and market experimentation to find a way to create customer
+                            value based on innovation that can be scaled globally.</q></p>
+                </li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Spiral Definition:</b> Dr. Skala, an expert with the Startup Poland
+                    Foundation, defines a startup as an organization with limited resources and
+                    uncertain demand for its products. The phases of startup development are:<ul class="- topic/ul " id="unique_2_Connect_42_ul_lnh_5q5_pbc" nd:nd-id="ul_lnh_5q5_pbc">
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Finding an innovative business model</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Using modern technology</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Launching a new product</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Creating disruptive innovations that radically change how customer
+                                needs are met</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Ensuring rapid user growth (hyperscalability)</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Creating an effective mechanism to translate user numbers into
+                                revenue growth</p>
+                        </li>
+                        <li class="- topic/li ">
+                            <p class="- topic/p ">Translating revenue growth into exponential growth in business
+                                value</p>
+                        </li>
+                    </ul></li>
+                
+               
+            </ol></p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="_1_2_a_startup_has_more_than_one_name_types_of_startups" oid="_1_2_a_startup_has_more_than_one_name_types_of_startups" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.2 A startup has more than one name...types of startups</ph></title>
+    <shortdesc class="- topic/shortdesc ">Types of startups</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_yqf_kr5_pbc" nd:nd-id="table_yqf_kr5_pbc" rowsep="1">
+            <tgroup align="left" class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;9:65" xtrf="file:/C:/New%20Folder/Content/1_2_a_startup_has_more_than_one_name_types_of_startups.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;10:65" xtrf="file:/C:/New%20Folder/Content/1_2_a_startup_has_more_than_one_name_types_of_startups.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Type od Startups</b></entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Description</b></entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Scalable Startups</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">These companies, often in the tech <xref class="- topic/xref " href="#unique_4" broken-link="true" type="glossentry"><?ditaot usertext?>niche</xref>, aim for a wide global reach. Their products include
+                            apps, online services, or other digital offerings.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Self-launched Startups</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Also known as small company ventures, these startups feature
+                            independent teams with minimal resources. They rely on self-funding,
+                            grow at their own pace, and face little pressure to scale
+                            quickly.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Lifestyle Startups</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Born from passion and hobbies, these startups allow owners to make a
+                            living doing what they love. They typically have low scalability and
+                            modest returns on investment.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Startups to Buy</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">These companies are created to be sold to larger players for a
+                            profit.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Ventures of Large Companies</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">Startups initiated by big corporations, leveraging the parent
+                            company's resources and technology.</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">Social Startups</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">These focus more on making a positive impact than on making money.
+                            They might run charities, educational prsograms, or other socially
+                            beneficial projects.</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="_1_3_common_features_of_startups" oid="_1_3_common_features_of_startups" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.3 Common Features of Startups</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Despite the many definitions and types of startups, they all share a few key features:<ol class="- topic/ol " id="unique_5_Connect_42_ol_jlz_rs5_pbc" nd:nd-id="ol_jlz_rs5_pbc">
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Innovation: </b>Startups don’t copy what’s already out there; they offer a
+                        unique product or service.</p>
+                </li>
+                <li class="- topic/li "><p class="- topic/p "><b class="+ topic/ph hi-d/b ">Scalability:</b> They aim to create a business model that can be implemented
+                    in various markets, ideally worldwide.</p></li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Potentially Fast Growth:</b> Startups are expected to grow quickly,
+                        offering large and speedy returns on investment.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Technological approach:</b> using the latest available technology (e.g.
+                        AI), improving expired patents or other technological and scientific
+                        solutions. </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Short Operating History: </b>Typically, startups have been in operation
+                        for up to five years on average.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk:</b> Startups are high-risk ventures with uncertain returns on
+                        investment.</p>
+                </li>
+            </ol></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" oid="_1_4_worth_it_or_not_the_pros_and_cons_of_a_startup" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.4 Worth it or Not The Pros and Cons of a Startup</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <fig class="- topic/fig " id="unique_6_Connect_42_fig_a5d_rlb_qbc" nd:nd-id="fig_a5d_rlb_qbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Pros and cons of a Sturtup. Image from: whatsup.es</ph></title><image class="- topic/image " dita-ot:image-width="724" dita-ot:image-height="483" href="file:/C:/New%20Folder/image/PNG/pros_and_cons_essay.png" id="unique_6_Connect_42_image_b5d_rlb_qbc" nd:nd-id="image_b5d_rlb_qbc" placement="inline">
+                <alt class="- topic/alt ">Pros and cons of a Startup.</alt>
+            </image></fig>
+        <p class="- topic/p ">Just like everything else, start-ups have their pros and cons. It's great to hear about
+            the perks, but keep in mind that almost 90% of start-ups fail, so it's smart to check
+            out the risks.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="_1_4_1_advantages_of_a_startup" oid="_1_4_1_advantages_of_a_startup" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.4.1 Advantages of a Startup</ph></title>
+    <shortdesc class="- topic/shortdesc ">Advantages of a Startup.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_7_Connect_42_ol_dk5_3v5_pbc" nd:nd-id="ol_dk5_3v5_pbc">
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Low Cost of Entry:</b>Statistics show that 1 in 3 people starting a
+                        startup have a budget of less than $5,000, and there's often no need for a
+                        significant initial investment.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Freedom:</b>You’re your own boss, pursuing your own vision... until you
+                        need to deal with investors.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Creativity:</b> Startups thrive on innovation, requiring layers of
+                        creativity to launch and sustain the business. <xref class="- topic/xref " href="#unique_8" broken-link="true" type="glossentry"><?ditaot usertext?>Founders</xref> are often seen as
+                        visionaries.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Flexibility:</b> Limited resources (financial or human) force quick
+                        adaptation to new solutions, work methods, or product directions.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Versatility:</b> With small teams, employees often wear many hats and
+                        multitask.</p>
+                </li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="_1_4_2_disadvantages_and_risks_of_a_startup" oid="_1_4_2_disadvantages_and_risks_of_a_startup" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.4.2 Disadvantages and Risks of a Startup</ph></title>
+    <shortdesc class="- topic/shortdesc ">Disadvantages and risks of a startup.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_9_Connect_42_ol_ybx_lw5_pbc" nd:nd-id="ol_ybx_lw5_pbc">
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">High Risk:</b> With innovative ideas, there’s no blueprint to follow.
+                        Learning from mistakes is common, and the product might not meet customer
+                        expectations. The risk of failure is substantial.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Funding Challenges: </b>Startups often survive as long as <xref class="- topic/xref " href="#unique_8" broken-link="true" type="glossentry"><?ditaot usertext?><xref class="- topic/xref " href="#unique_8" broken-link="true" type="glossentry"><?ditaot usertext?>founders</xref></xref> have personal funds or loan money. Finding
+                        external funding can be tough, especially with high competition. Without
+                        early investor cooperation or stable funding, even the best ideas can
+                        fail.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Limited Resources:</b> Startups usually begin with small budgets and
+                        teams. This can hinder growth and operations, leading to internal conflicts.
+                        Despite limited resources initially, it’s crucial to establish procedures
+                        and responsibilities over time.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lack of Defined Business Processes:</b> Poorly defined processes can lead
+                        to bad customer service, financial losses, and even legal issues.
+                        Outsourcing can help, but high costs are a barrier.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Incorrect Business Model Assumptions:</b> Over-optimism can doom a
+                        company. Regularly test and update your business model to quickly address
+                        flaws and shortcomings.</p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Ignoring Market Signals:</b> Stay vigilant. Launching a product is just
+                        the beginning; maintaining and expanding it is another challenge. Monitor
+                        customer behavior, competitors, and the broader economic and social
+                        environment to react swiftly. Wishful thinking doesn’t work in business.</p>
+                </li>
+            </ol>
+        </p>
+    </conbody>
+</concept></concept><topic class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" oid="_1_5_why_did_the_idea_fail_reasons_why_a_startup_fails" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">1.5 Why did the idea fail? Reasons why a startup fails</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p ">As I mentioned earlier, startups are high-risk ventures. There can be many obstacles that
+            lead to failure. It's crucial to consider potential weaknesses - even at the idea stage.
+            According to "The Top 20 Reasons Startups Fail" report, the five most common reasons
+                are:<fig class="- topic/fig " id="unique_10_Connect_42_fig_hvs_jmb_qbc" nd:nd-id="fig_hvs_jmb_qbc"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">The most common reasons why startups fail.</ph></title><image class="- topic/image " dita-ot:image-width="845" dita-ot:image-height="529" href="file:/C:/New%20Folder/image/PNG/dlaczego%20startupy%20upadają.png" id="unique_10_Connect_42_image_ivs_jmb_qbc" nd:nd-id="image_ivs_jmb_qbc" placement="inline" scale="50">
+                    <alt class="- topic/alt ">Diagram shows the most common reasons why startups fail.</alt>
+                </image></fig></p>
+        <ol class="- topic/ol " id="unique_10_Connect_42_ol_ckn_cz5_pbc" nd:nd-id="ol_ckn_cz5_pbc">
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lack of Market Need:</b>You have a groundbreaking product or idea, but is it a
+                    viable solution or just a catchy slogan? The assumptions and benefits might not
+                    interest your target audience or be practical for everyday use. When building a
+                    business model, make sure your product solves a real problem and is scalable.
+                    Remember, there's no need to reinvent the wheel.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Financial Exhaustion:</b> Startups allow you to test an idea with low initial
+                    costs, but what happens next? If you poorly define the market need and business
+                    model, you might find that making changes is both time-consuming and expensive.
+                    Even external funding might not be enough if you need to rebuild from
+                    scratch.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Lack of the Right Team:</b> You have the idea and the funding, but you don’t
+                    have the people to bring it to life. Without a strong in-house team or a
+                    reliable external partner, your product might never reach the market, and you
+                    risk burning out.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Better Competition: </b>Having competition is good - it pushes you to improve.
+                    You need to create a unique product that’s hard to copy. If you don’t react
+                    quickly to changes and customer feedback, you might lose out. Customers will
+                    choose a simpler, higher-quality, more effective, or cheaper solution.</p>
+            </li>
+            <li class="- topic/li ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Price/Cost Issues:</b> The market is dynamic, and solutions developed 3-4
+                    years ago might be obsolete now. If your product's price doesn’t match its
+                    quality, customers will move on. Producing cheaply and pleasing investors
+                    doesn't always work. A flawed business model, high costs for changes or
+                    improvements, ignoring advisors, releasing products too early or too late, legal
+                    issues - many factors (often several at once) can make further investment in a
+                    startup unprofitable.</p>
+            </li>
+        </ol>
+    </body>
+</topic></topic></map>

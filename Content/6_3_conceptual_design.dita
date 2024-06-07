@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_6_3_conceptual_design">
+    <title>Conceptual design</title>
+    <shortdesc>This is the phase where you need to focus on potential costs, revenues, and
+        profitability. </shortdesc>
+    <conbody>
+        <fig id="fig_myy_y5y_pbc">
+            <title>Third step - Conceptual Design</title>
+            <image
+                href="../image/PNG/6%20Stages%20of%20Product%20Development/4_6%20Stages%20of%20Product%20Development.png.png"
+                scale="60" id="image_nyy_y5y_pbc">
+                <alt>Third stepis conceptual design</alt>
+            </image>
+        </fig>
+        <p>. </p>
+        <p>Here's what to do:</p>
+        <ul id="ul_yyb_w5y_pbc">
+            <li>
+                <p>After the market analysis, revisit your value proposition and ensure it aligns
+                    with potential customers' expectations.</p>
+            </li>
+            <li>
+                <p>Look for ways to add or improve features that your competitors lack or don't
+                    execute well.</p>
+            </li>
+            <li>
+                <p>Develop the final value proposition into a <xref
+                        href="8_glossary.dita#feasibility_study">Feasibility Study</xref> for the
+                    product. Pay special attention to technical feasibility and implementation
+                    risks.</p>
+            </li>
+            <li>
+                <p>Create a business model that focuses on the billing model, distribution channels,
+                    and the main sources of revenue and costs.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

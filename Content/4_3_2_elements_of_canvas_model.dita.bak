@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_4_3_2_elements_of_canvas_model">
+    <title>4.3.2 Elements of Canvas Model</title>
+    <shortdesc>Explanation of what is in each cell of the business model table.</shortdesc>
+    <conbody>
+        <p>Elements of the Business Model Canvas include:<ul id="ul_hbp_gny_pbc">
+                <li>
+                    <p>Customer segments</p>
+                </li>
+                <li>
+                    <p>Value proposition</p>
+                </li>
+                <li>
+                    <p>Key partners</p>
+                </li>
+                <li>
+                    <p>Key activities</p>
+                </li>
+                <li>
+                    <p>Key resources</p>
+                </li>
+                <li>
+                    <p>Channels</p>
+                </li>
+                <li>
+                    <p>Customer relationships</p>
+                </li>
+                <li>
+                    <p>Cost structure</p>
+                </li>
+                <li>
+                    <p>Revenue structure</p>
+                </li>
+            </ul></p>
+        <p>A graphical representation of the model is as follows:</p>
+        <image href="../image/PNG/Model%20Canvas_EN.png.png" id="image_qrq_rny_pbc" width="800px"
+            height="auto"/>
+    </conbody>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_4_3_3_other_business_models">
+    <title>4.3.3 Other business models</title>
+    <shortdesc>Short about Lean Canvas.</shortdesc>
+    <conbody>
+        <p>The canvas model isn't the only game in town. There's also the <b>Lean Canvas,</b> which
+            focuses on the most critical aspects of your business and zeroes in on generating
+            revenue and turning a profit.</p>
+        <p>Remember, a well-crafted business model can be the bedrock of your future business. But
+            it's not set in stone. Keep revisiting and improving it as your startup (or maybe a
+            fully-fledged company at that point) grows and evolves. That way, you'll always stay
+            ahead of the curve.</p>
+    </conbody>
+    <related-links>
+        <link href="https://firmbee.com/pl/co-to-jest-lean-startup-plan" format="html"
+            scope="external">
+            <linktext>LEAN Statup Plan</linktext>
+        </link>
+        <link href="https://mfiles.pl/pl/index.php/Lean_canvas" format="html" scope="external">
+            <linktext>LEAN Canvas</linktext>
+        </link>
+    </related-links>
+</concept>

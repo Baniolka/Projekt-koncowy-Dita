@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_3_common_features_of_startups">
+    <title>Common features of startups</title>
+    <conbody>
+        <p>Despite the many definitions and types of startups, they all share a few key features:<ol
+                id="ol_jlz_rs5_pbc">
+                <li>
+                    <p><b>Innovation: </b>Startups don’t copy what’s already out there; they offer a
+                        unique product or service.</p>
+                </li>
+                <li><p><b>Scalability:</b> They aim to create a business model that can be implemented
+                    in various markets, ideally worldwide.</p></li>
+                <li>
+                    <p><b>Potentially Fast Growth:</b> Startups are expected to grow quickly,
+                        offering large and speedy returns on investment.</p>
+                </li>
+                <li>
+                    <p><b>Technological approach:</b> Using the latest available technology (e.g.
+                        AI), improving expired patents or other technological and scientific
+                        solutions. </p>
+                </li>
+                <li>
+                    <p><b>Short Operating History: </b>Typically, startups have been in operation
+                        for up to five years on average.</p>
+                </li>
+                <li>
+                    <p><b>Risk:</b> Startups are high-risk ventures with uncertain returns on
+                        investment.</p>
+                </li>
+            </ol></p>
+    </conbody>
+</concept>
